@@ -1,12 +1,10 @@
 ---
-name: Sam
-role: Head Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
-section: Soda 380 Tue 3-4 PM
-office_hours: Warren Hall Tue 2-3 PM
-access_dsp: true
+email: samanthacenteno@berkeley.edu
+name: Sam Centeno
+pronouns: SHE/HER
+photo: staff/sam.jpeg
+bio: Hi everyone! I’m Sam, a 3rd year CS+DS major who loves sushi, Summer Walker and Data 8 <33 Beyond excited to meet all of you this semester!!
+role: 20-hour Lead uGSI (UCS2)
+office-hours: Wed 11-1PM
+team: Scholars
 ---
-
-I like teaching Computer Science!
