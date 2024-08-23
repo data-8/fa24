@@ -16,6 +16,9 @@
   <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}default_photo.jpg" alt="{{ page.name }} profile photo" width="{{ page.width }}" height="{{ page.height }}">
   {%- endif -%}
   <div>
+    {%- if page.team -%}
+    <span class="team label-{{ page.team }}">{{ page.team }}</span>
+    {%- endif -%}
     <h3 class="staffer-name" id="{{ page.name | slugify }}">
       {%- if page.website -%}
       <a href="{{ page.website }}">{{ page.name }}</a>
@@ -32,9 +35,6 @@
       <span class="staffer-badge">DSP</span>
       {%- endif -%}
     </h3>
-    {%- if page.team -%}
-    <span class="team label-{{ page.team }}">{{ page.team }}</span>
-    {%- endif -%}
     {%- if page.email -%}
     <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
     {%- endif -%}
