@@ -6,7 +6,7 @@ description: >-
 nav_order: 3
 ---
 
-### Course Policies are not updated for Fall 2024. Please check by soon for the most up to date policies.
+### Course Policies are not updated for Fall 2024. Please check back soon for the most up to date policies.
 
 # Syllabus
 {:.no_toc}
