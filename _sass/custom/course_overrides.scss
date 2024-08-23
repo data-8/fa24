@@ -1,0 +1,235 @@
+// Put your custom CSS here!
+// You an reference all variables in the Berkeley files
+@import 'card';
+@import 'announcement';
+@import 'staffer';
+@import 'resources';
+
+// CUSTOM
+
+@media (min-width: 66.5rem) {
+    .side-bar { width: 248px !important;}
+    .main { margin-left: 264px !important;}
+  
+    .staffer div {
+      width: 200px !important;
+    }
+  
+    .acknowledger div {
+      width: 200px !important;
+    }
+  
+  }
+  
+  @media (min-width: 50rem) {
+    .main { max-width: 100% !important;}
+  
+    .site-header {
+      max-height: 150px !important;
+      height: 100% !important;
+    }
+  
+    .staffer div {
+      max-width: 200px !important;
+    }
+  
+    .acknowledger div {
+      max-width: 200px !important;
+    }
+  
+    .search-input {
+      font-size: 0.9em !important;
+    }
+  
+  }
+  
+  @media (max-width: 50rem) {
+    .site-logo {
+      margin-left: 60px !important;
+      height: 60px !important;
+    }
+  }
+  
+  .aux-nav {
+    font-size: 0.9em !important;
+  }
+  
+  .site-logo {
+    background-position: center !important;
+  }
+  
+  .flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .main-content-wrap {
+    max-width: 1100px !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important
+  }
+  
+  .staffer {
+    max-width: 500px !important;
+    font-size: 0.8em !important;
+  }
+  
+  .acknowledger {
+    max-width: 500px !important;
+    font-size: 0.8em !important;
+  }
+  
+  .acknowledger-name a {
+    color: #27262b !important;
+  
+  }
+  .btn-blue {
+    color: white !important;
+  }
+  .btn-yellow {
+    background-color: #ebc326 !important;
+    color: #333333 !important;
+  }
+  .btn-green {
+    color: white !important;
+  }
+  
+  .pronouns {
+    font-weight: bold !important;
+    display: inline-block;
+    padding-top: 0.16em;
+    padding-bottom: 0.16em;
+    padding-left: 0.56em;
+    padding-right: 0.56em;
+  
+    font-size: 0.8em;
+  
+    text-transform: uppercase;
+    vertical-align: middle;
+    border-radius: 12px;
+  
+    background-color: #ecebed;
+  }
+  
+  .term{
+    font-weight: bold !important;
+    display: inline-block;
+    padding-top: 0.16em;
+    padding-bottom: 0.16em;
+    padding-left: 0.56em;
+    padding-right: 0.56em;
+  
+    font-size: 0.8em;
+  
+    text-transform: uppercase;
+    vertical-align: middle;
+    border-radius: 12px;
+  
+    background-color: #ecebed;
+  }
+  
+  .staffer img {
+    max-width: 85px !important;
+    max-height: 85px !important;
+  }
+  
+  .acknowledger img {
+    max-width: 85px !important;
+    max-height: 85px !important;
+  }
+  
+  .team {
+    font-weight: bold !important;
+    display: inline-block;
+    padding-top: 0.16em;
+    padding-bottom: 0.16em;
+    padding-left: 0.56em;
+    padding-right: 0.56em;
+  
+    font-size: 0.8em;
+  
+    text-transform: uppercase;
+    vertical-align: middle;
+    border-radius: 6px;
+  
+  }
+  
+  .label-Scholars {
+    background-color: #935CBC;
+    color: white;
+  }
+  
+  .label-Course {
+    background-color: #B543CB;
+    color: white;
+  }
+  
+  .label-Content {
+    background-color: #006C67;
+    color: white;
+  }
+  
+  .label-Grading {
+    background-color: #DF2F0C;
+    color: white;
+  }
+  
+  .label-Logistics {
+    background-color: #3D348B;
+    color: white;
+  }
+  .label-Pedagogy {
+    background-color: #9C3848;
+    color: white;
+  }
+  .label-Tutors {
+    background-color: #AD6500;
+    color: white;
+  }
+  .label-Student-Support {
+    background-color: #2D8095;
+    color: white;
+  }
+  
+  .label-Professor {
+    background-color: #624099;
+    color: white;
+  }
+  
+  .label-Instructor {
+    background-color: #43794e;
+    color: white;
+  }
+  
+  .btn-datahub {
+    @include btn-color($white, #FF8C00);
+  }
+  
+  .btn-ed {
+    @include btn-color($white, #9400D3);
+  }
+  
+  .btn-bcourses {
+    @include btn-color($white, #8C183B);
+  }
+  
+  .btn-gradescope {
+    @include btn-color($white, #055E8A);
+  }
+  
+  .btn-textbook {
+    @include btn-color($white, #1B1D1D);
+  }
+  
+  .btn-extensions {
+    @include btn-color($white, #523be7);
+  }
+  
+  .btn-currweek {
+    @include btn-color($white, #355F41);
+  }
+  
+  .btn-officehours{
+    @include btn-color($white, #1863c1);
+  }
+

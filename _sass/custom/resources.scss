@@ -1,0 +1,92 @@
+.dropdownWrapper {
+    flex: 1 1 20%; /* Flex grow, shrink, and basis set for responsive sizing */
+    min-width: 180px; /* Minimum width to maintain readability and appearance */
+    margin: 5px; /* Spacing between buttons */
+}
+
+#dropdownContainer {
+    display: flex;
+    flex-direction: row; /* Ensure items are laid out in a row */
+    flex-wrap: wrap; /* Allow items to wrap onto the next line if space runs out */
+    justify-content: space-between; /* Distribute space between items evenly */
+    align-items: stretch; /* Stretch items to fill the container vertically */
+    width: 100%; /* Ensure the container takes full width */
+    padding: 10px; /* Optional: Adds some space inside the container */
+}
+
+.dropdown button {
+    width: 100%; /* Ensure the button stretches to the full width of its container */
+    padding: 10px; /* Adjust padding to control the button's inner spacing */
+    font-size: 16px;
+    color: white;
+    background-color: #345E74;
+    border: none;
+    cursor: pointer;
+    height: 100%; /* Make the button fill its container vertically */
+    border-radius: 10px; /* Adds slightly rounded corners */
+    transition: box-shadow 0.25s;
+}
+
+.dropdown button:hover {
+    box-shadow: 
+        0 2px 4px rgba(0, 0, 0, 0.07),  /* Side shadow */
+        0 4px 8px rgba(0, 0, 0, 0.13); /* Bottom shadow more pronounced */
+}
+
+.dropdownContent {
+    display: none; /* Keep content hidden by default */
+    background-color: #f4f4f4;
+    padding: 5px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: Adds shadow for better visibility */
+    z-index: 1; /* Ensures dropdown content lays on top of other content if expanded */
+    max-height: 200px; /* Set maximum height for the dropdown content */
+    overflow-y: auto; /* Enable vertical scrolling */
+    border-radius: 7px;
+}
+
+.dropdownContent ul {
+    padding: 0; /* Remove default padding from the ul element */
+    margin: 0; /* Remove default margin from the ul element */
+    list-style: none; /* Remove default list style */
+}
+
+.dropdownContent li {
+    padding: 5px 10px; /* Add padding to list items */
+    position: relative; /* Ensure the pseudo-element is positioned relative to the li */
+}
+
+.dropdownContent li:before {
+    content: '•'; /* Add a bullet point */
+    position: absolute; /* Position it absolutely within the li */
+    left: 0; /* Align it to the left */
+    opacity: 0; /* Make it invisible */
+}
+
+.dropdownContent li a {
+    text-decoration: none; /* Remove underline from links */
+    color: #002676; /* Set link color */
+    padding-left: 0px; /* Remove padding to align text */
+    display: block; /* Make it a block element */
+}
+
+.dropdownContent li a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+
+/* Custom scrollbar styles */
+.dropdownContent::-webkit-scrollbar {
+    width: 8px;
+}
+
+.dropdownContent::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+.dropdownContent::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 10px;
+}
+
+.dropdownContent::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
