@@ -38,7 +38,7 @@
     {%- if page.email -%}
     <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
     {%- endif -%}
-    {%- if page.bio -%}
+    {%- if page.Section -%} <!--Change to page.bio once updated -->
     <p class="staffer-meta">Section: {{ page.bio | markdownify | strip_html }}</p>
     {%- endif -%}
     {%- if page.office_hours -%} <!--Change the underscore to a hyphen when you want to display it-->
