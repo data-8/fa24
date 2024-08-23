@@ -1,0 +1,527 @@
+{"0": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"1": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Aug 19 &middot; 0 min read . | Lectures are in Wheeler 150 . | First day of class is on Wednesday 8/28! | . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"2": {
+    "doc": "Announcements",
+    "title": "Week 16 Announcement",
+    "content": "Dec 9 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"3": {
+    "doc": "Announcements",
+    "title": "Week 15 Announcement",
+    "content": "Dec 2 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"4": {
+    "doc": "Announcements",
+    "title": "Week 14 Announcement",
+    "content": "Nov 25 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"5": {
+    "doc": "Announcements",
+    "title": "Week 13 Announcement",
+    "content": "Nov 18 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"6": {
+    "doc": "Announcements",
+    "title": "Week 12 Announcement",
+    "content": "Nov 11 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"7": {
+    "doc": "Announcements",
+    "title": "Week 11 Announcement",
+    "content": "Nov 4 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"8": {
+    "doc": "Announcements",
+    "title": "Week 10 Announcement",
+    "content": "Oct 28 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"9": {
+    "doc": "Announcements",
+    "title": "Week 9 Announcement",
+    "content": "Oct 21 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"10": {
+    "doc": "Announcements",
+    "title": "Week 8 Announcement",
+    "content": "Oct 14 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"11": {
+    "doc": "Announcements",
+    "title": "Week 7 Announcement",
+    "content": "Oct 7 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"12": {
+    "doc": "Announcements",
+    "title": "Week 6 Announcement",
+    "content": "Sep 30 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"13": {
+    "doc": "Announcements",
+    "title": "Week 5 Announcement",
+    "content": "Sep 23 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"14": {
+    "doc": "Announcements",
+    "title": "Week 4 Announcement",
+    "content": "Sep 16 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"15": {
+    "doc": "Announcements",
+    "title": "Week 3 Announcement",
+    "content": "Sep 9 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"16": {
+    "doc": "Announcements",
+    "title": "Week 2 Announcement",
+    "content": "Sep 2 &middot; 0 min read . | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"17": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Aug 28 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "/fa24/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"18": {
+    "doc": "Home",
+    "title": "Data 8: Foundations of Data Science",
+    "content": "UC Berkeley, Fall 2024 . Ed Gradescope Lecture Recordings Jump to Current Week . Instructor: . Jeremy Sanchez . jeremysanchez@berkeley.edu . ",
+    "url": "/fa24/#data-8-foundations-of-data-science",
+    
+    "relUrl": "/#data-8-foundations-of-data-science"
+  },"19": {
+    "doc": "Home",
+    "title": "Week 0 Announcement",
+    "content": "Aug 19 &middot; 0 min read . | Lectures are in Wheeler 150 . | First day of class is on Wednesday 8/28! | . | . ",
+    "url": "/fa24/",
+    
+    "relUrl": "/"
+  },"20": {
+    "doc": "Home",
+    "title": "Week 1",
+    "content": "Aug 28 1 Introduction Reading: 1.1, 1.2, 1.3 Lab Lab 01 (Due 8/30) Aug 30 2 Cause and Effect Reading: 2 Homework Homework 01 (Due 9/4) ",
+    "url": "/fa24/#week-1",
+    
+    "relUrl": "/#week-1"
+  },"21": {
+    "doc": "Home",
+    "title": "Week 2",
+    "content": "Sep 2 Labor Day No class Lab Lab 02 (Due 9/6) Sep 4 3 Tables Reading: 3 Sep 6 4 Data Types Reading: 4, 5 Homework Homework 02 (Due 9/11) ",
+    "url": "/fa24/#week-2",
+    
+    "relUrl": "/#week-2"
+  },"22": {
+    "doc": "Home",
+    "title": "Week 3",
+    "content": "Sep 9 5 Building Tables Reading: 6.1, 6.2 Lab Lab 03 (Due 9/13) Sep 11 6 Census Reading: 6.3, 6.4 Sep 13 7 Charts Reading: 7, 7.1 Homework Homework 03 (Due 9/18) ",
+    "url": "/fa24/#week-3",
+    
+    "relUrl": "/#week-3"
+  },"23": {
+    "doc": "Home",
+    "title": "Week 4",
+    "content": "Sep 16 8 Histograms Reading: 7.2, 7.3 Lab Lab 04 (Due 9/20) Sep 18 9 Functions Reading: 8, 8.1 Sep 20 10 Groups Reading: 8.2, 8.3 Homework Homework 04 (Due 9/25) Project Project 1: World Population and Poverty (Due Fri 10/4; Checkpoint 9/27) ",
+    "url": "/fa24/#week-4",
+    
+    "relUrl": "/#week-4"
+  },"24": {
+    "doc": "Home",
+    "title": "Week 5",
+    "content": "Sep 23 11 Pivots and Joins Reading: 9.5, 10 Sep 25 12 Table Examples Reading: 10.2, 10.3, 10.4 Sep 27 13 Conditionals and Iteration Reading: 11.1, 11.2, 11.3, 11.4 Homework Homework 05 (Due 10/2) ",
+    "url": "/fa24/#week-5",
+    
+    "relUrl": "/#week-5"
+  },"25": {
+    "doc": "Home",
+    "title": "Week 6",
+    "content": "Sep 30 14 Chance Reading: 11.4, 12.1 Lab Lab 05 (Due 10/4) Oct 2 15 Sampling Reading: 12.2 Oct 4 16 Models Reading: 12.3 Homework Homework 06 (Due 10/9) ",
+    "url": "/fa24/#week-6",
+    
+    "relUrl": "/#week-6"
+  },"26": {
+    "doc": "Home",
+    "title": "Week 7",
+    "content": "Oct 7 17 Comparing Distributions Lab Lab 06 (Due 10/11) Oct 9 18 Decisions and Uncertainty Reading: 13, 13.1, 13.2 Oct 11 19 A/B Testing Reading: 13.3, 13.4 Homework Homework 07 (Due 10/16) ",
+    "url": "/fa24/#week-7",
+    
+    "relUrl": "/#week-7"
+  },"27": {
+    "doc": "Home",
+    "title": "Week 8",
+    "content": "Oct 14 20 Causality Reading: 14, 14.1, 14.2, 14.3, 14.4 Oct 16 21 Examples Reading: 14.5 Oct 18 22 Midterm Review Exam Midterm Exam (7 - 9 PM) ",
+    "url": "/fa24/#week-8",
+    
+    "relUrl": "/#week-8"
+  },"28": {
+    "doc": "Home",
+    "title": "Week 9",
+    "content": "Oct 21 23 Confidence Intervals Reading: 15.2 Lab Lab 07 (Due 10/25) Oct 23 24 Interpreting Confidence Reading: 15.3, 15.4 Oct 25 25 Center and Spread Reading: 15.5, 15.6 Homework Homework 08 (Due 10/30) ",
+    "url": "/fa24/#week-9",
+    
+    "relUrl": "/#week-9"
+  },"29": {
+    "doc": "Home",
+    "title": "Week 10",
+    "content": "Oct 28 26 The Normal Distribution Reading: 16 Lab Lab 08 (Due 11/1) Oct 30 27 Sample Means Reading: 17, 17.1, 17.2, 17.3 Nov 1 28 Designing Experiments Reading: 17.4 Homework Homework 09 (Due 11/6) Project Project 2: Climate (Due Fri 11/15; Checkpoint 11/8) ",
+    "url": "/fa24/#week-10",
+    
+    "relUrl": "/#week-10"
+  },"30": {
+    "doc": "Home",
+    "title": "Week 11",
+    "content": "Nov 4 29 Correlation Reading: 13, 18 Nov 6 30 Linear Regression Nov 8 31 Least Squares Homework Homework 10 (Due 11/13) ",
+    "url": "/fa24/#week-11",
+    
+    "relUrl": "/#week-11"
+  },"31": {
+    "doc": "Home",
+    "title": "Week 12",
+    "content": "Nov 11 Veterans Day No class Lab Lab 09 (Due 11/15) Nov 13 32 Residuals Nov 15 33 Regression Inference Homework Homework 11 (Due 11/20) ",
+    "url": "/fa24/#week-12",
+    
+    "relUrl": "/#week-12"
+  },"32": {
+    "doc": "Home",
+    "title": "Week 13",
+    "content": "Nov 18 34 Updating Predictions Nov 20 35 Classification Nov 22 36 Classifiers Homework Homework 12 (Due 11/27) Project Project 3: Classifying Movies (Due Fri 11/29; Checkpoint 12/6) ",
+    "url": "/fa24/#week-13",
+    
+    "relUrl": "/#week-13"
+  },"33": {
+    "doc": "Home",
+    "title": "Week 14",
+    "content": "Nov 25 37 Privacy (Pre-recorded) Nov 27 Holiday No class Nov 29 Holiday No class ",
+    "url": "/fa24/#week-14",
+    
+    "relUrl": "/#week-14"
+  },"34": {
+    "doc": "Home",
+    "title": "Week 15",
+    "content": "Dec 2 38 Inference Review Lab Lab 10 (Due 12/6) Dec 4 39 Case Study: Tech Reading: 17, 17.1, 17.2, 17.3 Dec 6 40 Conclusion Homework Homework 13 ",
+    "url": "/fa24/#week-15",
+    
+    "relUrl": "/#week-15"
+  },"35": {
+    "doc": "Home",
+    "title": "Final",
+    "content": "Dec Exam Final Exam ",
+    "url": "/fa24/#final",
+    
+    "relUrl": "/#final"
+  },"36": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/fa24/",
+    
+    "relUrl": "/"
+  },"37": {
+    "doc": "Debugging",
+    "title": "Debugging",
+    "content": " ",
+    "url": "/fa24/debugging/",
+    
+    "relUrl": "/debugging/"
+  },"38": {
+    "doc": "Debugging",
+    "title": "Table of Contents",
+    "content": ". | Cells and the Autograder . | Why does running a particular cell cause my kernel to die? | My python code cell has turned into a text/markdown cell. How do I change it back? | How do I quickly run all the cells in a notebook? | Why does grader.check_all() fail, if all previous tests passed? | Why does a notebook test fail now, when it passed before and I didn’t change my code? | Why did a Gradescope test fail, when all the notebook’s tests passed? | Why do I get an error saying grader is not defined? | I’m positive I have the right answer, but the test fails. Is there a mistake in the test? | I accidentally deleted something in a cell that was provided to me – how do I get it back? | . | Specific Errors . | … object is not callable | SyntaxError at the very beginning of a line of code | . | DataHub . | Why can’t I log in to DataHub? | My notebook won’t load. Is DataHub down? | What if I don’t have access to DataHub and I still want to access Data 8 materials? | . | . ",
+    "url": "/fa24/debugging/#table-of-contents",
+    
+    "relUrl": "/debugging/#table-of-contents"
+  },"39": {
+    "doc": "Debugging",
+    "title": "Cells and the Autograder",
+    "content": "Why does running a particular cell cause my kernel to die? . If one particular cell seems to cause your kernel to die, your code is probably incorrect in a way that is causing the computer to use more memory than it has available. For instance: your code is trying to create a gigantic array. To prevent from crashing the entire server, the kernel will “die”. This is an indication that there is a mistake in your code that you need to fix. My python code cell has turned into a text/markdown cell. How do I change it back? . Click on the cell and select Run &gt; Cell Type &gt; Change to Code Cell Type in the top toolbar. How do I quickly run all the cells in a notebook? . Go to the Cell menu in the top toolbar, then “Run All.” You can also select a certain cell and run all cells before this point, or run all cells after this point. You should run all the cells in your notebook before submitting to confirm that you pass all the tests. Why does grader.check_all() fail, if all previous tests passed? . This can happen if you “overwrite” a variable that is used in a question. For instance, if Question 1 asks you to store your answer in a variable named stat, and later on in the notebook you change the value of stat, you’ll see the test after Question 1 pass, but the test at the end of the notebook fail. Make sure to avoid using the same variable name for more than one purpose. Why does a notebook test fail now, when it passed before and I didn’t change my code? . You probably ran your notebook out of order. Re-run all previous cells in order, which is how your code will be graded. Why did a Gradescope test fail, when all the notebook’s tests passed? . This can happen if you’re running your notebook’s cells out-of-order. The autograder runs your notebook top-to-bottom. If you’re defining a variable at the bottom of your notebook and using it at the top, the Gradescope autograder will fail because it doesn’t recognize the variable when it encounters it. Additionally, this can fail if youhave not saved before you run the autograder. Ensure you select File -&gt; Save Notebook to avoid this. This is why we recommend running Kernel -&gt; Restart and Run All: it “forgets” all of the variables and runs the notebook from top-to-bottom, just like the Gradescope autograder will. This will highlight any issues. Find the first cell that raises an error. Make sure that all of the variables used in that cell have been defined above that cell, and not below. Why do I get an error saying grader is not defined? . If it has been a while since you’ve worked on an assignment, the kernel will shut itself down to preserve memory. When this happens, all of your variables are forgotten, including the grader. That’s OK: you’ll just need to re-run all of the cells. The easiest way to do this is by using Kernel -&gt; Restart and Run All. This may also occur if you never ran the top cell of the notebook where the grader is defined. I’m positive I have the right answer, but the test fails. Is there a mistake in the test? . While you might see the correct answer displayed as the result of the cell, chances are it isn’t being stored in the answer variable. Make sure you are assigning the result to the answer variable. Make sure there are no typos in the variable name. I accidentally deleted something in a cell that was provided to me – how do I get it back? . There are two solutions: . | In this public GitHub repository, you’ll find the “original” versions of all assignments we released this quarter. You can look here and manually add back any necessary code or text that you accidentally deleted. | Suppose you’re working on Lab 5. One solution is go directly to DataHub and rename your lab05 folder to something else, like lab05-old. Then, click the Lab 5 link on the course website again, and it’ll bring you to a brand-new version of Lab 5. Then, you can copy your work from your old Lab 5 to this new one, which should have everything in it. | . ",
+    "url": "/fa24/debugging/#cells-and-the-autograder",
+    
+    "relUrl": "/debugging/#cells-and-the-autograder"
+  },"40": {
+    "doc": "Debugging",
+    "title": "Specific Errors",
+    "content": "A general rule of thumb when debugging is to look at the very last line of an error message. That’s usually the most informative part of the message, and will often tell you directly what’s wrong. … object is not callable . This often happens when you use a default keyword (like str or list) as a variable name, for instance list = [1, 2, 3]. These errors can be tricky because they don’t error on their own, but cause problems when we try to use the name list (for example) later on in the notebook. To fix the issue, identify any such lines of code, change your variable names to be something else, and restart your notebook. Python keywords like str and list appear in green text, so be on the lookout if any of your variable names appear in green! . SyntaxError at the very beginning of a line of code . Python expected you to continue your last line of code. Typically this means you have mismatched parentheses on the line above the line that is erroring. ",
+    "url": "/fa24/debugging/#specific-errors",
+    
+    "relUrl": "/debugging/#specific-errors"
+  },"41": {
+    "doc": "Debugging",
+    "title": "DataHub",
+    "content": "Why can’t I log in to DataHub? . Log out of all Google accounts or open an incognito window. When prompted, enter your full Berkeley email, username@berkeley.edu, as your credentials. My notebook won’t load. Is DataHub down? . Sometimes DataHub does have availability issues. Usually it is back up and running again within an hour. In other instances, there are some things you can do to get the notebook running again: Make sure your internet connection is working. If you can, restart your server by clicking the button at the top right labeled “Control Panel”, then select “Stop My Server”, followed by “Start My Server”. If that doesn’t work, try restarting your computer and using a different browser. Whenever you resume working on a notebook, run all cells you’ve previously completed. If your problem persists after trying all these steps, please notify us on Ed. What if I don’t have access to DataHub and I still want to access Data 8 materials? . We welcome the general public to use our materials. If you’re not enrolled in the class, you can access all lectures and assignments in our public GitHub repository. In order to run Jupyter notebooks locally on your own computer, we recommend using Anaconda. ",
+    "url": "/fa24/debugging/#datahub",
+    
+    "relUrl": "/debugging/#datahub"
+  },"42": {
+    "doc": "FAQs",
+    "title": "Frequently Asked Questions",
+    "content": ". Q: What is the best way to get help in this course? . A: Your best avenues are to go to office hours held by the course staff, or to ask questions on Ed. Course staff will be monitoring Ed frequently and will try to answer your question quickly and thoroughly. Q: Where will our grades for assignments be displayed for the course? . A: Grades will be displayed on Gradescope for the written and autograded portions for all assignments (homeworks, labs, projects, and exams). For homeworks and projects, your total grade is the sum of the autograded portion and the written portion. Q: I passed all the tests when doing my homework/project, but still got points off on the autograded portion of the assignment. Why is this happening? . A: The homeworks and projects have hidden tests that are not visible to students while they do the assignment. In order to pass these hidden tests, you must test your code yourself and make sure your answer is correct. Our tests are not always comprehensive. Q: I have a 0 on Gradescope for a lab that I attended and got checked off. Why is this? . A: Your attendance may have been marked incorrectly. Please contact your lab TA. Q: I worked with a partner on a project, and they have a grade on Gradescope for the project while I do not. Why is this happening? . A: You were likely not added to the Gradescope submission. Have your partner add you to both the written work and autograder submission immediately and contact your lab TA. Q: I noticed a mistake in the grading of the written portion of my homework. How can I get this fixed? . A: To get this fixed, you must submit a regrade request via Gradescope before the regrade deadline. This is known as the regrade request window. We unfortunately will not accept any regrades after the window has closed. All regrade deadline dates are posted on the same Ed post that releases the assignment grades and solutions. Q: I have some other grading questions. Who should I contact? . A: Please contact your lab GSI. Q: I would like to apply for a (u)GSI position for this course. What should I do? . A: All applications for Academic Student Employee positions are managed centrally; you can find all the details here. Please do not email the instructors individually with your resume/etc, as they are not in a position to hire you. ",
+    "url": "/fa24/faq/#frequently-asked-questions",
+    
+    "relUrl": "/faq/#frequently-asked-questions"
+  },"43": {
+    "doc": "FAQs",
+    "title": "FAQs",
+    "content": " ",
+    "url": "/fa24/faq/",
+    
+    "relUrl": "/faq/"
+  },"44": {
+    "doc": "Welcome!",
+    "title": "UC Berkeley Class Site Template",
+    "content": "Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for: . | announcements, | a course calendar, | a staff page, | and a weekly schedule. | . Just the Class is a template that extends the popular Just the Docs theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as: . | automatic navigation structure, | instant, full-text search and page indexing, | and a set of UI components and authoring utilities. | . ",
+    "url": "/fa24/home/#uc-berkeley-class-site-template",
+    
+    "relUrl": "/home/#uc-berkeley-class-site-template"
+  },"45": {
+    "doc": "Welcome!",
+    "title": "Getting Started",
+    "content": "Getting started with Just the Class is simple. | Create a new repository based on Just the Class. | Update _config.yml and README.md with your course information. Be sure to update the url and baseurl. | Configure a publishing source for GitHub Pages. Your course website is now live! | Edit and create .md Markdown files to add more content pages. | . Just the Class has been used by instructors at Stanford University (CS 161), UC Berkeley (Data 100), UC Santa Barbara (CSW8), Northeastern University (CS4530/5500), and Carnegie Mellon University (17-450/17-950). Share your course website and find more examples in the show and tell discussion! . Local development environment . Just the Class requires no special Jekyll plugins and can run on GitHub Pages’ standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on Testing your GitHub Pages site locally with Jekyll. ",
+    "url": "/fa24/home/#getting-started",
+    
+    "relUrl": "/home/#getting-started"
+  },"46": {
+    "doc": "Welcome!",
+    "title": "Welcome!",
+    "content": " ",
+    "url": "/fa24/home/",
+    
+    "relUrl": "/home/"
+  },"47": {
+    "doc": "Policies",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "/fa24/policies/#syllabus",
+    
+    "relUrl": "/policies/#syllabus"
+  },"48": {
+    "doc": "Policies",
+    "title": "Table of contents",
+    "content": ". | About the Course . | Course Description | Prerequisites | Materials &amp; Resources | Support | . | Course Components . | Live Lecture | Labs | Homework and Projects | Exams | . | Grades . | Extra Credit: Engagement, Participation and Attendance (EPA) | Regrades | . | Assignments . | Submitting Assignments | Late Submission | Assignment Extensions | Learning Cooperatively | . | Accommodations . | Privacy | . | Academic Honesty | A Parting Thought | . ",
+    "url": "/fa24/policies/#table-of-contents",
+    
+    "relUrl": "/policies/#table-of-contents"
+  },"49": {
+    "doc": "Policies",
+    "title": "About the Course",
+    "content": "Course Description . Foundations of Data Science combines three perspectives: inferential thinking, computational thinking, and real-world relevance. Given data arising from some real-world phenomenon, how does one analyze that data so as to understand that phenomenon? The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. It also delves into social issues surrounding data analysis such as privacy and study design. Prerequisites . The curriculum and format is designed specifically for students who have not previously taken statistics or computer science courses. Students with some prior experience in either statistics or computing are welcome to enroll and often find that this course offers a new perspective that blends computational and inferential thinking. Students who have taken several statistics or computer science courses should instead take a more advanced course like Data 100. Materials &amp; Resources . Our primary text is an online book called Computational and Inferential Thinking: The Foundations of Data Science. This text was written for the course by the course instructors. A complete PDF of the textbook can be found in the Student Materials Google Drive. The computing platform for the course is hosted at data8.datahub.berkeley.edu. Students find it convenient to use their own computer for the course. If you do not have adequate access to a personal computer, we can help you borrow a machine; please contact data8@berkeley.edu. Support . You are not alone in this course; the staff and instructors are here to support you as you learn the material. It’s expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use Ed. We will also hold in-person office hours that offer drop-in help on assignments and course material. Your lab TA will be your main point of contact for all course related questions/grade clarifications. The TAs are here to support you so please lean on your lab TA if you need more support in the class or have any questions/concerns. Small-group tutoring sessions will be available for students in need of additional support to develop confidence with core concepts. In past semesters, students who attended have found these sessions to be a great use of their time. Details about sign-ups will be available a few weeks into the term. ",
+    "url": "/fa24/policies/#about-the-course",
+    
+    "relUrl": "/policies/#about-the-course"
+  },"50": {
+    "doc": "Policies",
+    "title": "Course Components",
+    "content": "Live Lecture . Live lectures will be held from Monday to Thursday from 11:10am-12pm, and on Friday from 11:10am-1pm in Dwinelle 155; students are expected to attend live lectures synchronously due to the fast pace of the summer. Recordings of these sessions will be provided within 1-2 days of the lecture. Slides and lecture examples will be provided on the course website. Labs . This course has two 2-hour labs per week, held on Mondays and Wednesdays. All students are required to attend the first lab section, on Monday 6/17. If you are unable to attend the first lab section, please reach out to your assigned TA once you receive your section assignment. Weekly labs include a discussion worksheet covering recent material and a programming-based lab assignment that develops skills with computational and inferential concepts. Lab assignments will be released on the same day as they are due. We guarantee that all lab assignments will be released before the first lab section. This summer, lab meetings are two hours long on Monday and Wednesday. The first hour focuses on the discussion worksheet and group problem solving. The second hour is dedicated to completing the programming-based lab assignment. To receive credit for lab, you must attend both parts. If you complete the lab assignment before the lab period is over and get checked off by the course staff, you may leave early and still receive credit. If you stay for the complete lab period, make significant progress on the lab assignment, and get checked off by the course staff, you will receive full credit for the lab even if you haven’t completed the whole lab assignment. You must submit your lab notebook to Gradescope. You will receive full credit for the lab assignment if you are checked off and you submit. Your GSI will only check you off if you have either finished the lab notebook or worked until the end of the lab and made substantial progress. Lab sessions will not be recorded and are only offered in-person. Homework and Projects . Bi-weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you are allowed to discuss problems with other students and course staff. See the Learning Cooperatively section below. Homeworks will be released on Tuesday and Friday, and are due that same Friday and the following Tuesday night, respectively. Data science is about analyzing real-world data sets, and so you will also complete two projects involving real data. On each project, you may work with a single partner; your partner must be from the lab you enrolled in. Both partners will receive the same score. If you submit a homework or project 24 hours before the deadline or earlier, you will receive 5 bonus points on that assignment. Exams . The midterm exam will be held on Friday, July 12 from 11am-1pm PT. Please note the date and time carefully. The final exam is required for a passing grade, and will be held on Wednesday, August 7 from 11am-1pm PT. There will be no alternate exams for the midterm and the final exam for those with exam conflicts. If you have exam accommodations on file with the DSP office, they will be taken into account for both the midterm and final exams. ",
+    "url": "/fa24/policies/#course-components",
+    
+    "relUrl": "/policies/#course-components"
+  },"51": {
+    "doc": "Policies",
+    "title": "Grades",
+    "content": "Grades will be assigned using the following weighted components. Every assignment is weighted equally in its category. For example, there are 2 projects, so each project is worth (20 / 2)% = 10% of your grade. | Activity | Grade | . | Lab Credit | 10% | . | Homeworks | 20% | . | Projects | 20% | . | Midterm | 20% | . | Final | 30% | . | EPA | 2% [Extra Credit] | . Instructors not TA’s will respond to any questions regarding grade bins or letter grades. Extra Credit: Engagement, Participation and Attendance (EPA) . Extra credit participation points were created to encourage people to be good academic citizens, in a way that traditional grades could not capture. This can help boost you over a grade boundary if you’re close to one. Scoring is confidential, and your score will not be shared - please do not ask staff members any questions about this. You may demonstrate your engagement in Data 8 through attendance and participation during live lecture, lab section, office hours, and EdStem. For example, actively asking / answering questions during lecture will help you accumulate extra points in this category. Additionally, there are several ways to engage with the course staff: lab sections, tutoring sections, and office hours. At the end of the semester, your participation in these section activities will be scored according to attendance and engagement. The best way to score full points in this section is to attend your lab section/lecture, sign up for tutoring, and make sure your TA knows your name! . The maximum number of extra credit percentage points you can accumulate throughout the semester is 2%. Regrades . Grades for Homeworks, Projects, and Labs will be posted on Gradescope after the assignment’s due date. Solutions to the assignment and common mistakes will also be posted on Ed. It is up to you to check the solutions and request a regrade request before the regrade deadline (typically 5 days after grade release). Regrade requests can be made on Gradescope. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so please do not delay in reviewing your work. For the midterm exam, there will be a regrade request submission window. Please review the solutions and common mistakes before submitting a regrade request. Requests where a rubric item was incorrectly selected or not selected will be reviewed, but any regrade requests that ask to change the rubric or for partial credit will be ignored. ",
+    "url": "/fa24/policies/#grades",
+    
+    "relUrl": "/policies/#grades"
+  },"52": {
+    "doc": "Policies",
+    "title": "Assignments",
+    "content": "Submitting Assignments . All assignments (homework, labs, and projects) will be submitted on Gradescope. Please refer to this tutorial for submitting assignments. Late Submission . The deadline for all assignments in this course is 11 PM PT. Assignments submitted until 11:59 PM on the day of the deadline will not be marked as late. Homework and lab submissions after this time will not be accepted. We understand that life happens. For this reason, your two lowest homework scores and two lowest lab scores will be dropped in the calculation of your overall grade. If you have an ongoing situation that prevents you from completing course content, please contact your lab TA. Projects will be accepted up to 2 days (48 hours) late. Projects submitted fewer than 24 hours after the deadline will receive 2/3 credit, and projects submitted between 24 and 48 hours after the deadline will receive 1/3 credit. Projects submitted 48 hours or more after the deadline will receive no credit. Assignment Extensions . Due to the fast pace of the summer offering, we are unable to offer assignment extensions for the vast majority of students. As mentioned above, you are provided two lab and homework drops for emergency situations that may come up. Only after using all your assignment drops, if you continue to encounter further emergencies beyond your control, please do not hesitate to reach out. Please fill out the Extenuating Circumstances Form, and a course staff member will reach out to you and provide a space for conversation, as well as to arrange accommodations as necessary. Note that you will be asked to provide supporting documentation, and these requests will be approved on a case-by-case basis. Learning Cooperatively . We encourage you to discuss course content with your friends and classmates as you are working on your assignments. No matter your academic background, you will learn more if you work alongside others than if you work alone. Ask questions, answer questions, and share ideas liberally. If some emergency takes you away from the course for an extended period, or if you decide to drop the course for any reason, please don’t just disappear silently! You should inform your lab TA and your project partner (if you have one) immediately, so that nobody is expecting you to do something you can’t finish. ",
+    "url": "/fa24/policies/#assignments",
+    
+    "relUrl": "/policies/#assignments"
+  },"53": {
+    "doc": "Policies",
+    "title": "Accommodations",
+    "content": "We will provide appropriate accommodations to all students enrolled in Berkeley’s Disabled Students Program (DSP). To ensure that you receive the appropriate accommodations, have your DSP specialist submit a letter confirming your status and accommodations. If you’re not enrolled in DSP, or are in the process of being onboarded by DSP, you may still be eligible for accommodations. We also aim to provide fair and appropriate accommodations to any students who, because of extenuating circumstances, may need them. Please reach out to data8@berkeley.edu if this is the case and our DSP Lead will get back to you. Privacy . All DSP and accommodations-related materials for this course are kept in a repository separate from the rest of the course materials that is visible only to the instructors and selected Lead GSIs. For any DSP and accommodations-related communications, please reach out to data8@berkeley.edu. This inbox will be visible to future members of course staff, so if you ever have a communication that you wish to remain private, let us know and we can delete the email exchange once the conversation is resolved. ",
+    "url": "/fa24/policies/#accommodations",
+    
+    "relUrl": "/policies/#accommodations"
+  },"54": {
+    "doc": "Policies",
+    "title": "Academic Honesty",
+    "content": "You must write your answers in your own words, and you must not share your completed work. The exception to this rule is that you can share everything related to a project with your project partner (if you have one) and turn in one project between the two of you, and if you are attending a lab session and have a lab partner you can share everything related to that lab with your lab partner. Make a serious attempt at every assignment yourself. If you get stuck, read the textbook and go over the lectures and lab discussion. After that, go ahead and discuss any remaining doubts with others, especially the course staff. That way you will get the most out of the discussion. It is important to keep in mind the limits to collaboration. As noted above, you and your friends are encouraged to discuss course content and approaches to problem solving. But you are not allowed to share your code or answers with other students. Doing so is considered academic misconduct, and it doesn’t help them either. It sets them up for trouble on upcoming assignments and on the exams. In addition, posting course content such as homeworks, projects, and exams on any 3rd party websites or submitting your own answers on outside sites/forums is considered academic misconduct. You are also not permitted to turn in answers or code that you have obtained from others. Not only does such copying count as academic misconduct, it circumvents the pedagogical goals of an assignment. You must solve problems with the resources made available in the course. You should never look at or have in your possession solutions from another student or another semester. Please read Berkeley’s Code of Conduct carefully. Penalties for academic misconduct in Data 8 are severe and include reporting to the Center for Student Conduct. They might also include a F in the course or even dismissal from the university. It’s just not worth it! . When you need help, reach out to the course staff using Ed, in office hours, and/or during labs. You are not alone in Data 8! Instructors and staff are here to help you succeed. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you. Finally, know that it’s normal to struggle. Berkeley has high standards, which is one of the reasons its degrees are valued. Everyone struggles even though many try not to show it. Even if you don’t learn everything that’s being covered, you’ll be able to build on what you do learn, whereas if you cheat you’ll have nothing to build on. You aren’t expected to be perfect; it’s ok not to get an A. ",
+    "url": "/fa24/policies/#academic-honesty",
+    
+    "relUrl": "/policies/#academic-honesty"
+  },"55": {
+    "doc": "Policies",
+    "title": "A Parting Thought",
+    "content": "The main goal of the course is that you should learn, and have a fantastic experience doing so. Please keep that goal in mind throughout the semester. Welcome to Data 8! . ",
+    "url": "/fa24/policies/#a-parting-thought",
+    
+    "relUrl": "/policies/#a-parting-thought"
+  },"56": {
+    "doc": "Policies",
+    "title": "Policies",
+    "content": " ",
+    "url": "/fa24/policies/",
+    
+    "relUrl": "/policies/"
+  },"57": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": "Table of Contents . | Materials . | Student Materials Folder | Guides | Table Resources | Supplemental Videos | . | Exam Resources . | Study Guides | . | Past Exams | Exam Problems by Topic | Wellness Resources | . ",
+    "url": "/fa24/resources/",
+    
+    "relUrl": "/resources/"
+  },"58": {
+    "doc": "Resources",
+    "title": "Materials",
+    "content": "Student Materials Folder . We will post student materials in this folder throughout the semester. Guides . | Arrays Primer | Tabular Thinking | Confidence Intervals | JupyterHub Tips | Sampling Methods | Table Functions | Hypothesis Testing | . Table Resources . | Table Function Visualizer | . Supplemental Videos . | Group Animation | Pivot Animation | . ",
+    "url": "/fa24/resources/#materials",
+    
+    "relUrl": "/resources/#materials"
+  },"59": {
+    "doc": "Resources",
+    "title": "Exam Resources",
+    "content": "Study Guides . | The midterm study guide will be distributed with the midterm exam. | The final study guide will be distributed with the final exam. | . ",
+    "url": "/fa24/resources/#exam-resources",
+    
+    "relUrl": "/resources/#exam-resources"
+  },"60": {
+    "doc": "Resources",
+    "title": "Past Exams",
+    "content": "Exams, practice exams, and walkthrough videos from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the datascience module has changed over time. | A review document identifying past exam problems by topic can be found here! | . | Semester | Midterm | Final | . | Spring 2024 | Exam (Solutions) [Walkthrough] | Exam (Solutions) | . | Fall 2023 | Exam (Solutions) [Walkthrough] | Exam (Solutions) | . | Spring 2023 | Exam (Solutions) [Walkthrough] | Exam (Solutions) [Walkthrough] | . | Fall 2022 | Exam (Solutions) [Walkthrough] | Exam (Solutions) | . | Spring 2022 | Exam (Solutions) [Walkthrough] | Exam (Solutions) [Walkthrough] | . | Fall 2021 | Exam (Solutions) | Exam (Solutions) | . | Spring 2021 | Exam (Solutions) | Exam (Solutions) | . | Fall 2020 | Exam (Solutions) | Exam (Solutions) | . | Spring 2020 | Exam (Solutions) | Exam (Solutions) [Explanations] | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | . | Spring 2019 | Exam (Solutions) | Exam (Solutions) | . | Fall 2018 | Exam (Solutions) | Exam (Solutions) | . | Spring 2018 | Exam (Solutions) | Exam (Solutions) | . | Fall 2017 | Exam (Solutions) | Exam (Solutions) | . | Spring 2017 | Exam (Solutions), Practice Exam (Solutions) | Exam (Solutions), Practice Exam (Solutions) | . | Fall 2016 | Exam | Exam (Solutions) | . ",
+    "url": "/fa24/resources/#past-exams",
+    
+    "relUrl": "/resources/#past-exams"
+  },"61": {
+    "doc": "Resources",
+    "title": "Exam Problems by Topic",
+    "content": ". | We apologize this section does not yet currently work for dark mode, we’re looking to fix this issue soon! | . Tables . | Spring 2024 Midterm Q4(b - d) | Fall 2023 Midterm Q5d | Fall 2023 Midterm Q4(a - e) | Spring 2022 Final Q2 | Spring 2022 Midterm Q1 | Spring 2022 Midterm Q2b | Fall 2021 Final Q12 | Fall 2021 Final Q2 | Fall 2021 Midterm Q1 | Fall 2021 Midterm Q2 | Spring 2021 Final Q3 | Spring 2021 Midterm Q1 | Fall 2020 Final Q1 | Fall 2020 Midterm Q5 | Spring 2020 Midterm Q2 (e - f) | Spring 2020 Midterm Q3(e - f, i, j) | Fall 2019 Midterm Q2 | Fall 2019 Midterm Q4 | Spring 2019 Final Q3 | Spring 2019 Final Q4a | Spring 2019 Midterm Q3 | Fall 2018 Midterm Q2 | Spring 2018 Final Q5 | Spring 2018 Midterm Q1 | Fall 2017 Final Q1 | Spring 2017 Final Q1 | Spring 2017 Midterm Q1 | Fall 2016 Final Q9 | . Standard Hypothesis Testing . | Spring 2024 Midterm Q4e | Spring 2024 Midterm Q5 | Fall 2023 Midterm Q5 (a - c, e - f) | Fall 2023 Midterm Q4f | Fall 2023 Midterm Q1 (d, f) | Spring 2022 Final Q6e | Spring 2022 Final Q1k | Spring 2022 Midterm Q4 | Fall 2021 Final Q6 | Fall 2021 Midterm Q6 | Spring 2021 Final Q1b | Spring 2021 Midterm Q5 | Fall 2020 Final Q7 | Fall 2020 Midterm Q7 | Spring 2020 Midterm Q4 (a - c) | Spring 2020 Midterm Q3k | Fall 2019 Midterm Q6 | Fall 2019 Midterm Q3 (e - g, h, i) | Spring 2019 Final Q5 | Spring 2019 Midterm Q6 | Spring 2019 Midterm Q2a | Fall 2018 Final Q4 (f - h) | Fall 2018 Midterm Q3 | Spring 2018 Final Q8 | Spring 2018 Final Q11 | Spring 2018 Midterm Q5 (b - d) | Spring 2018 Midterm Q4 | Fall 2017 Final Q3 | Spring 2017 Final Q2 | Spring 2017 Midterm Q4 | Fall 2016 Final Q15 | Fall 2016 Final Q13 | Fall 2016 Final Q4 | . Histograms/ Visualizations . | Spring 2024 Midterm Q4a | Fall 2023 Midterm Q4g | Fall 2023 Midterm Q1g | Spring 2022 Final Q7(a, b) | Spring 2022 Final Q3h | Spring 2022 Midterm Q2 | Spring 2022 Midterm Q1e | Fall 2021 Final Q3 | Fall 2021 Midterm Q9 | Fall 2021 Midterm Q6b | Fall 2021 Midterm Q5 | Spring 2021 Final Q7 (a - c) | Spring 2021 Midterm Q7 | Spring 2021 Midterm Q6 | Fall 2020 Final Q5b | Fall 2020 Final Q4g | Fall 2020 Midterm Q3 | Fall 2020 Midterm Q2 | Spring 2020 Midterm Q3 (a - d) | Spring 2020 Midterm Q2 (a - d) | Fall 2019 Midterm Q5 | Fall 2019 Midterm Q2 (a - d) | Spring 2019 Midterm Q4 | Spring 2019 Midterm Q2b | Fall 2018 Final Q2a | Fall 2018 Midterm Q1 | Spring 2018 Midterm Q6 | Spring 2017 Midterm Q2 | Fall 2016 Final Q14 | Fall 2016 Final Q11 | Fall 2016 Final Q10 | Fall 2016 Final Q8 | Fall 2016 Final Q6 | Fall 2016 Final Q2 | . Functions . | Fall 2023 Midterm Q4a | Fall 2023 Midterm Q1L | Spring 2022 Final Q7h | Spring 2022 Final Q6d | Fall 2021 Final Q6f | Fall 2021 Final Q6a | Fall 2021 Final Q2d | Fall 2021 Final Q1 | Fall 2021 Midterm Q8a | Fall 2020 Final Q5a | Spring 2020 Midterm Q3h | Spring 2019 Midterm Q4d | Fall 2018 Midterm Q2g | . Iteration . | Spring 2024 Midterm Q2b | Fall 2021 Midterm Q8b | Fall 2020 Midterm Q4 (f, g) | Fall 2019 Midterm Q3g | Spring 2019 Midterm Q6d | Spring 2019 Midterm Q2c | Fall 2018 Midterm Q3d | Spring 2018 Midterm Q2 | Spring 2017 Midterm Q3b | . Confidence Intervals . | Spring 2022 Final Q3 (a - g) | Spring 2022 Final Q1f | Fall 2021 Final Q10 | Fall 2021 Final Q9 | Fall 2021 Final Q5b | Spring 2021 Final Q4 (d - h) | Spring 2021 Final Q2 (d, e) | Fall 2020 Final Q6 | Spring 2019 Final Q10f | Spring 2018 Final Q6 | Spring 2018 Final Q1 | . Python Practice . | Spring 2024 Midterm Q2b | Spring 2021 Midterm Q2 | Fall 2020 Midterm Q4 (a - e) | Fall 2019 Midterm Q1 | Spring 2019 Final Q1 | Spring 2019 Midterm Q1 | . Bootstrap . | Spring 2022 Final Q6c | Fall 2021 Final Q10 | Fall 2021 Final Q5a | Fall 2020 Final Q7 (c - f) | Fall 2020 Final Q5h | Fall 2018 Final Q5 | Fall 2018 Final Q3 | Fall 2016 Final Q16 | Fall 2016 Final Q12 | Fall 2016 Final Q7 | . A/B Testing . | Fall 2023 Midterm Q1 (e, i) | Fall 2021 Midterm Q7 | Fall 2021 Midterm Q5 | Spring 2021 Final Q1a | Spring 2021 Midterm Q3 | Fall 2020 Midterm Q8 | Spring 2020 Midterm Q4 (d, e) | Spring 2019 Midterm Q7 | Fall 2018 Final Q6 | . Sampling . | Fall 2023 Midterm Q2b (i - i.v) | Fall 2021 Midterm Q8 (c, d) | Fall 2017 Final Q2 (e - h) | Fall 2017 Final Q6 | Spring 2017 Final Q3 | . Center and Spread . | Fall 2023 Midterm Q2b (vi) | Fall 2023 Midterm Q1j | Spring 2022 Final Q1 (i, j) | Spring 2021 Final Q2f | Fall 2020 Final Q6f | Spring 2018 Final Q2 | . Law of Averages . | Fall 2023 Midterm Q1c | Fall 2018 Midterm Q3f | Spring 2018 Midterm Q5a | Spring 2017 Midterm Q3c | . Sample Means . | Spring 2022 Final Q3 (b - c, f) | Fall 2021 Final Q5b | Spring 2021 Final Q2 (a - d) | . Central Limit Theorem . | Spring 2022 Final Q1(i, j) | Spring 2022 Final Q3d | Spring 2021 Final Q2f | Spring 2018 Final Q2 | . Experiments . | Spring 2024 Midterm Q2b | Fall 2023 Midterm Q1h | Fall 2020 Midterm Q1 | Spring 2018 Final Q3 | . Correlation/Regression/Least Squares . | Spring 2022 Final Q1 (a, f, g, n) | Spring 2022 Final Q6 (a - d) | Fall 2021 Final Q7 | Spring 2021 Final Q4 (a - c) | Fall 2020 Final Q5 (c, d) | Spring 2019 Final Q10 (a - e) | Fall 2018 Final Q2 | Fall 2017 Final Q10 | Spring 2017 Final Q4 | . Residuals/Regression Inference . | Spring 2022 Final Q1f | Spring 2022 Final Q1m | Spring 2022 Final Q3h | Spring 2021 Final Q4(d - g) | Spring 2021 Final Q2g | Fall 2021 Final Q8 | Fall 2020 Final Q5 (e - i) | Spring 2019 Final Q7 | Spring 2019 Final Q9 | Fall 2018 Final Q7 | Spring 2018 Final Q7 | Spring 2018 Final Q4 | Fall 2016 Final Q3 | . Classification/Classifiers/Decisions . | Spring 2022 Final Q1 (b - d) | Spring 2022 Final Q7 (c - h) | Fall 2021 Final Q13 | Spring 2021 Final Q7 (d - f) | Fall 2020 Final Q4 (a - f) | Fall 2020 Final Q8 | Spring 2019 Final Q4 | Fall 2018 Final Q1 | Spring 2018 Final Q9 | Spring 2018 Final Q10 | Fall 2017 Final Q9 | Fall 2017 Final Q5 | Spring 2017 Final Q5 | Fall 2016 Final Q5 | Fall 2016 Final Q1 | . Probability . | Spring 2024 Midterm Q2a | Fall 2023 Midterm Q2 a(i. - iv.), b( i.- ii.) | Fall 2023 Midterm Q1a | Spring 2022 Final Q5 | Spring 2022 Final Q4 | Spring 2022 Final Q1L | Spring 2022 Midterm Q3 | Fall 2021 Final Q11 | Fall 2021 Midterm Q3 | Spring 2021 Final Q6 | Spring 2021 Final Q5 | Spring 2021 Midterm Q4 | Fall 2020 Final Q3 | Fall 2020 Final Q2 | Fall 2020 Midterm Q6 | Spring 2020 Midterm Q1 | Fall 2019 Midterm Q3 (a - d) | Spring 2019 Final Q2 | Spring 2019 Final Q6 | Spring 2019 Midterm Q5 | Fall 2018 Final Q4 | Fall 2018 Midterm Q4 | Spring 2018 Midterm Q3 | Fall 2017 Final Q8 | Spring 2017 Midterm Q3a | . ",
+    "url": "/fa24/resources/#exam-problems-by-topic",
+    
+    "relUrl": "/resources/#exam-problems-by-topic"
+  },"62": {
+    "doc": "Resources",
+    "title": "Wellness Resources",
+    "content": "Your well-being matters, and we hope that Data 8 is never a barrier to taking care of your mental and physical health. Below are some campus resources that may be helpful: . | University Health Services | UHS Counseling and Psychological Services (CAPS) | Campus Academic Accommodations Hub | ASUC Student Advocate’s Office | Basic Needs Center | ASUC Mental Health Resources Guide | . ",
+    "url": "/fa24/resources/#wellness-resources",
+    
+    "relUrl": "/resources/#wellness-resources"
+  },"63": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "/fa24/schedule/#weekly-schedule",
+    
+    "relUrl": "/schedule/#weekly-schedule"
+  },"64": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Lecture 10:00 AM–11:00 AM Wheeler 150 | . | ",
+    "url": "/fa24/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"65": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "/fa24/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"66": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Lecture 10:00 AM–11:00 AM Wheeler 150 | . | ",
+    "url": "/fa24/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"67": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "/fa24/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"68": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Lecture 10:00 AM–11:00 AM Wheeler 150 | . | . ",
+    "url": "/fa24/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"69": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/fa24/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"70": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "url": "/fa24/staff/",
+    
+    "relUrl": "/staff/"
+  },"71": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "Jeremy Sanchez . jeremysanchez@berkeley.edu . ‘Let’s get this show on the road! This is my third year as a lecturer at Berkeley; I have been in the Statistics department for the last two years and joined the Data Science department this summer. I love this job and can’t wait to meet all of you.’ . ",
+    "url": "/fa24/staff/#instructors",
+    
+    "relUrl": "/staff/#instructors"
+  },"72": {
+    "doc": "Staff",
+    "title": "Head Teaching Assistants",
+    "content": "Jane Doe . Course Directorjanedoe@berkeley.edu . I like teaching Computer Science! . SamDSP . me@example.com . Section: Soda 380 Tue 3-4 PM . Office Hours: Warren Hall Tue 2-3 PM . I like teaching Computer Science! . ",
+    "url": "/fa24/staff/#head-teaching-assistants",
+    
+    "relUrl": "/staff/#head-teaching-assistants"
+  },"73": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "More Evil Kevin . me@example.com . I like teaching Computer Science! . ",
+    "url": "/fa24/staff/#teaching-assistants",
+    
+    "relUrl": "/staff/#teaching-assistants"
+  },"74": {
+    "doc": "Staff",
+    "title": "Tutors",
+    "content": "Really Really Evil Kevin . me@example.com . I like teaching Computer Science! . ",
+    "url": "/fa24/staff/#tutors",
+    
+    "relUrl": "/staff/#tutors"
+  }
+}

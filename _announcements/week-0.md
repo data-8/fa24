@@ -4,5 +4,6 @@ week: 0
 date: 2024-08-19
 ---
 
-* More to come!
+* Lectures are in Wheeler 150
+    * First day of class is on Wednesday 8/28!
 {: .fs-5 }
