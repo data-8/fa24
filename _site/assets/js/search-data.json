@@ -498,30 +498,16 @@
   },"71": {
     "doc": "Staff",
     "title": "Instructors",
-    "content": "Jeremy Sanchez . jeremysanchez@berkeley.edu . ‘Let’s get this show on the road! This is my third year as a lecturer at Berkeley; I have been in the Statistics department for the last two years and joined the Data Science department this summer. I love this job and can’t wait to meet all of you.’ . ",
+    "content": "Jeremy Sanchez . jeremysanchez@berkeley.edu . Let’s get this show on the road! This is my third year as a lecturer at Berkeley; I have been in the Statistics department for the last two years and joined the Data Science department this summer. I love this job and can’t wait to meet all of you. ",
     "url": "/fa24/staff/#instructors",
     
     "relUrl": "/staff/#instructors"
   },"72": {
     "doc": "Staff",
     "title": "Head Teaching Assistants",
-    "content": "Jane Doe . Course Directorjanedoe@berkeley.edu . I like teaching Computer Science! . SamDSP . me@example.com . Section: Soda 380 Tue 3-4 PM . Office Hours: Warren Hall Tue 2-3 PM . I like teaching Computer Science! . ",
+    "content": "Aileen WuSHE/THEY . Contentaileenwu@berkeley.edu . Section: Hi! I’m a junior from Vancouver, BC studying data science and econ. Probably chasing snow or fun hikes when not studying. Super stoked to meet everyone! . Andrew ChenHE/HIM . Student Supportandrew_chen04@berkeley.edu . Section: Hey there, I’m a fourth year from San Diego, majoring in Political Science and Psychology and minoring in Data Science. Data 8 transformed my college journey, and I hope it’ll be a rewarding experience for you too! 🙂 . Brandon SuHE/HIM . Tutorsbrandonsu@berkeley.edu . Section: Hi! I’m a sophomore from the Bay studying Applied Math and CS. I love teaching, nature, and recently been obsessed with honey 🍯 . Cai IbarraSHE/HER . Logisticscapibarra@berkeley.edu . Section: Hi! I’m a junior from Manila majoring in DS &amp; MCB (triple major in eating sushi &amp; drinking matcha). Excited to meet everyone! . Conan SmallwoodHE/HIM . Pedagogyconan.smallwood@berkeley.edu . Section: Hey everyone! I’m a junior from Japan studying Statistics and Data Science who loves playing tennis, ping pong, rocket league, and drinking coffee! . Edwin Vargas NavarroHE/HIM . Contentjedwin321@berkeley.edu . Section: Hey y’all! I’m a junior majoring in Data Science and minoring in CalTeach. I enjoy going on runs, biking, and playing video games with friends. Ella DeGuzmanSHE/HER . Contentelladeguzman@berkeley.edu . Section: Hi!! I’m a third year studying Computer Science and Bioengineering. Outside of school, I enjoy traveling, painting, taking film photos, and fashion!! Can’t wait to meet you all. Ramisha KabirSHE/HER . Course Directorramishakabir@berkeley.edu . Section: hey! i’m a third year studying data science and cs. data 8 was my first coding experience and it changed my world. i’m so excited you’re here :) . Sam CentenoSHE/HER . Scholarssamanthacenteno@berkeley.edu . Section: Hi everyone! I’m Sam, a 3rd year CS+DS major who loves sushi, Summer Walker and Data 8 &lt;33 Beyond excited to meet all of you this semester!! . Thomas GerkenHE/HIM . Course Directorwtgerken@berkeley.edu . Section: Hi everyone, I’m so excited to be returning as a 3rd time GSI to the best staff on campus! I’m a double major in Data Science and Economics, and I’m looking forward to getting to know you all this semester. ",
     "url": "/fa24/staff/#head-teaching-assistants",
     
     "relUrl": "/staff/#head-teaching-assistants"
-  },"73": {
-    "doc": "Staff",
-    "title": "Teaching Assistants",
-    "content": "More Evil Kevin . me@example.com . I like teaching Computer Science! . ",
-    "url": "/fa24/staff/#teaching-assistants",
-    
-    "relUrl": "/staff/#teaching-assistants"
-  },"74": {
-    "doc": "Staff",
-    "title": "Tutors",
-    "content": "Really Really Evil Kevin . me@example.com . I like teaching Computer Science! . ",
-    "url": "/fa24/staff/#tutors",
-    
-    "relUrl": "/staff/#tutors"
   }
 }
