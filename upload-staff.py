@@ -60,9 +60,9 @@ with open('staff.csv', 'r') as csvfile:
             mdfile.write(f"name: {row[name]}\n")
             mdfile.write(f"email: {row[email]}\n")
             mdfile.write(f"pronouns: {row[pronouns].upper()}\n")
-            mdfile.write(f"photo: staff/{formatted_name}.jpg\n")
+            mdfile.write(f"photo: staff/{formatted_name}.jpeg\n")
             if row[website]:
-                mdfile.write(f"website:{row[website]}\n")
+                mdfile.write(f"website: {row[website]}\n")
             mdfile.write(f"bio: {row[bio]}\n")
             mdfile.write(f"role: {row[role]}\n")
             if formatted_name in leads:
