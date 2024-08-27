@@ -12,9 +12,9 @@ permalink: /
 UC Berkeley, Fall 2024
 {: .mb-2 .fs-6}
 
-[Ed](https://edstem.org/us/courses/59844/discussion/){: .btn .btn-ed}
-[Gradescope](https://www.gradescope.com/courses/798344){: .btn .btn-gradescope}
-[Lecture Recordings](https://bcourses.berkeley.edu/courses/1535365/external_tools/90481){: .btn .btn-bcourses}
+[Ed](https://edstem.org/us/courses/64093/discussion/){: .btn .btn-ed}
+[Gradescope](https://www.gradescope.com/courses/835871){: .btn .btn-gradescope}
+[Lecture Recordings](https://bcourses.berkeley.edu/courses/1538208/external_tools/90481){: .btn .btn-bcourses}
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
 **Instructor:**
