@@ -52,11 +52,13 @@ class_archive_path: /
 aux_links:
   # TODO(template): Move this to be built-in.
   Ed:
-    - 'https://edstem.org'
+    - 'https://edstem.org/us/courses/64093/discussion/'
   OH Queue:
     - 'https://oh.data8.org/'
   Textbook:
     - 'https://inferentialthinking.com/chapters/intro.html'
+  Extensions:
+    - 'https://docs.google.com/forms/d/e/1FAIpQLSc2CSE_Ie_TR0r7lV7-JX0zNagoJ08t-EAK48iCAc3rVgHIXw/viewform'
 
 # Collections for website data
 collections:
