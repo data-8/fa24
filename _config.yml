@@ -211,7 +211,7 @@ links:
     hw12: "Homework 12"
     hw13: "Homework 13"
   lab:
-    lab01: "Lab 01"
+    lab01: "[Lab 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab01%2Flab01.ipynb)"
     lab02: "Lab 02"
     lab03: "Lab 03"
     lab04: "Lab 04"
@@ -222,7 +222,7 @@ links:
     lab09: "Lab 09"
     lab10: "Lab 10"
   wksht:
-    wksht01: ""
+    wksht01: "[Lab 01 Worksheet](https://drive.google.com/file/d/1SxtXURV9UabpSOtQDvRXy9qb6DxkSBF9/view?usp=sharing)"
     wksht02: ""
     wksht03: ""
     wksht04: ""
@@ -241,7 +241,7 @@ links:
     proj3: "Project 3: Classifying Movies"
   lec:
     demo:
-      demo01: ""
+      demo01: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec01/lec01.ipynb&branch=main)"
       demo02: ""
       demo03: ""
       demo04: ""
@@ -282,7 +282,7 @@ links:
       demo39: ""
       demo39: ""
     slides:
-      slide01: ""
+      slide01: "[Slides](https://docs.google.com/presentation/d/1Rg3tyM3b68n8Ko5OzsnnvXSbeP-HARD5WlLKUfXXCFk/edit?usp=sharing)"
       slide02: ""
       slide03: ""
       slide04: ""
