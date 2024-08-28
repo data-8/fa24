@@ -114,7 +114,7 @@ For the midterm exam, there will be a regrade request submission window. Please 
 
 ### Submitting Assignments
 
-All assignments (homework, labs, and projects) will be submitted on Gradescope. Please refer to [this tutorial](https://drive.google.com/file/d/1ZyLpxcqYubKEyxphk5K-OZRRkphUVFQi/view?usp=sharing) for submitting assignments. **Please note that this video does NOT cover the submission of written work. You should follow the instructions written on each assignment to see how to submit written work.**
+All assignments (homework, labs, and projects) will be submitted on Gradescope. Please refer to [this tutorial](https://drive.google.com/file/d/1ZyLpxcqYubKEyxphk5K-OZRRkphUVFQi/view?usp=sharing) for submitting assignments. 
 
 We understand that the submission process is new for many students taking the course. To account for this, we will do our best to accommodate submission-related issues (submitting to the wrong assignment, not saving files correctly, autograder timing out) up until the third week of the course. After the third week, it is **your responsibility** to confirm you have submitted your work correctly. We reserve the right to impose penalties for having to resubmit students’ work beyond this point.
 
