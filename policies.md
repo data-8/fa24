@@ -105,7 +105,7 @@ Grades will be assigned using the following weighted components. Every assignmen
 | Midterm | 15% |
 | Final | 30% |
 
-The instructor nor the TA will respond to any questions regarding grade bins or letter grades. Please consult Berkeleytime for historical distributions of grade bins!
+The staff will not respond to any questions regarding grade bins or letter grades. Please consult Berkeleytime for historical distributions of grade bins!
 
 Grades for Homeworks, Projects, and Labs will be posted on Gradescope about 1 week after the assignment's due date. Solutions to the assignment and common mistakes will also be posted on Ed. It is up to you to check the solutions and request a regrade request before the regrade deadline (typically 5 days after grade release). Regrade requests can be made on Gradescope. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so please do not delay reviewing your work.
 
