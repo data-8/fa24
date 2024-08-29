@@ -6,8 +6,6 @@ status: Active
 
 Sep 2
 : **Labor Day**{: .label} No class
-: **Lab**{: .label .label-lab} {{site.links.lab.lab02}} (Due 9/6)
-    : {{site.links.wksht.wksht02}}
 
 Sep 4
 : **3**{: .label} Tables

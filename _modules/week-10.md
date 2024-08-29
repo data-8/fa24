@@ -21,4 +21,4 @@ Nov 1
   : {{site.links.lec.slides.slide28}} {{site.links.lec.demo.demo28}}
 : _Reading:_ [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw09}} (Due 11/6)
-: **Project**{: .label .label-project} {{site.links.proj.proj2}} (Due Fri 11/15; Checkpoint 11/8)
+: **Project**{: .label .label-project} {{site.links.proj.proj2}} (Due Fri 11/15)
