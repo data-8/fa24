@@ -51,8 +51,8 @@ class_archive_path: /
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
   # TODO(template): Move this to be built-in.
-  Ed:
-    - 'https://edstem.org/us/courses/64093/discussion/'
+  # Ed:
+  #   - 'https://edstem.org/us/courses/64093/discussion/'
   OH Queue:
     - 'https://oh.data8.org/'
   Textbook:
