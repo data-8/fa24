@@ -52,7 +52,7 @@ schedule:
   - name: Thursday
     events:  
       - name: Office Hours
-        start: 10:00 AM
+        start: 11:00 AM
         end: 2:00 PM
         location: Warren 101-B
   - name: Friday
