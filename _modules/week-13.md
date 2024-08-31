@@ -7,9 +7,7 @@ status: Active
 Nov 18
 : **34**{: .label} Classification
     : {{site.links.lec.slides.slide35}} {{site.links.lec.demo.demo35}}
-: **Lab**{: .label .label-lab} {{site.links.lab.lab10}}: Project 3 Work Time
-  : {{site.links.wksht.wksht10}}
-: **Project**{: .label .label-project} {{site.links.proj.proj3}} (Due Fri 12/6)
+: **Lab**{: .label .label-lab} Project 3 Work Time
 
 Nov 20
 : **35**{: .label} Evaluating Classifiers

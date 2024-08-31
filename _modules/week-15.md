@@ -7,6 +7,8 @@ status: Active
 Dec 2
 : **38**{: .label} Updating Probabilities
     : {{site.links.lec.slides.slide38}} {{site.links.lec.demo.demo38}}
+: **Lab**{: .label .label-lab} {{site.links.lab.lab10}} (Due 12/6)
+  : {{site.links.wksht.wksht10}}
 
 Dec 4
 : **39**{: .label} Case Study: Computer Vision 

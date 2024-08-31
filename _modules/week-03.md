@@ -8,8 +8,8 @@ Sep 9
 : **5**{: .label} Building Tables
     : {{site.links.lec.slides.slide05}} {{site.links.lec.demo.demo05}}
 : _Reading:_ [6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab02}} (Due 9/13)
-    : {{site.links.wksht.wksht02}}
+: **Lab**{: .label .label-lab} {{site.links.lab.lab03}} (Due 9/13)
+    : {{site.links.wksht.wksht03}}
 
 Sep 11
 : **6**{: .label} Census
