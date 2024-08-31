@@ -1,5 +1,5 @@
 ---
-title: Week 5 Announcement
+title: Week 5 Announcements
 week: 5
 date: 2021-09-23
 ---
