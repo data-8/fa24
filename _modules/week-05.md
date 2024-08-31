@@ -8,8 +8,7 @@ Sep 23
 : **11**{: .label} Pivots and Joins
     : {{site.links.lec.slides.slide11}} {{site.links.lec.demo.demo11}}
 : _Reading:_ [9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html), [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab04}}: Project 1 Work Time
-  : {{site.links.wksht.wksht04}}
+: **Lab**{: .label .label-lab} Project 1 Work Time
 
 
 Sep 25
