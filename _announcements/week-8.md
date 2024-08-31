@@ -1,5 +1,5 @@
 ---
-title: Week 8 Announcement
+title: Week 8 Announcements
 week: 8
 date: 2021-10-14
 ---

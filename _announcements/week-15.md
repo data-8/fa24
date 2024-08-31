@@ -1,5 +1,5 @@
 ---
-title: Week 15 Announcement
+title: Week 15 Announcements
 week: 15
 date: 2021-12-02
 ---

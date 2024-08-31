@@ -1,5 +1,5 @@
 ---
-title: Week 7 Announcement
+title: Week 7 Announcements
 week: 7
 date: 2021-10-07
 ---

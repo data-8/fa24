@@ -1,5 +1,5 @@
 ---
-title: Week 12 Announcement
+title: Week 12 Announcements
 week: 12
 date: 2021-11-11
 ---
