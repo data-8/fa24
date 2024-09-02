@@ -21,3 +21,4 @@ Sep 20
     : {{site.links.lec.slides.slide10}} {{site.links.lec.demo.demo10}}
 : _Reading:_ [8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw04}} (Due 9/25)
+: **Project**{: .label .label-project} {{site.links.proj.proj1}} (Due Fri 10/4)
