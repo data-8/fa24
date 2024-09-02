@@ -20,19 +20,19 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Instructor Office Hours
-        start: 9:00 AM
-        end: 10:00 AM
-        location: Evans 323
-      - name: Lecture
-        start: 10:00 AM
-        end: 11:00 AM
-        location: Wheeler 150
-      - name: Office Hours
-        start: 1:00 PM
-        end: 3:00 PM
-        location: Warren 101-B
+    # events:
+    #   - name: Instructor Office Hours
+    #     start: 9:00 AM
+    #     end: 10:00 AM
+    #     location: Evans 323
+    #   - name: Lecture
+    #     start: 10:00 AM
+    #     end: 11:00 AM
+    #     location: Wheeler 150
+    #   - name: Office Hours
+    #     start: 1:00 PM
+    #     end: 3:00 PM
+    #     location: Warren 101-B
   - name: Tuesday
     events:
       - name: Office Hours
