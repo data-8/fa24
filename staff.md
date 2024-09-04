@@ -48,7 +48,7 @@ Email `data8@berkeley.edu` for logistical questions!
 <!-- </div> -->
 
 ## Tutors
-{% assign tutors = site.staffers | where: 'role', 'Tutor' %}
+{% assign tutors = site.staffers | where: 'role', 'Tutor (UCS1)' %}
 {% assign num_tutors = tutors | size %}
 {% if num_tutors != 0 %}
 
