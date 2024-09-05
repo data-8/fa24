@@ -200,7 +200,7 @@ exclude:
 links:
   hw:
     hw01: "[Homework 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw01%2Fhw01.ipynb)"
-    hw02: "Homework 02"
+    hw02: "[Homework 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw02%2Fhw02.ipynb)"
     hw03: "Homework 03"
     hw04: "Homework 04"
     hw05: "Homework 05"
