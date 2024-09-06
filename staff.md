@@ -40,21 +40,21 @@ Email `data8@berkeley.edu` for logistical questions!
 {% if num_teaching_assistants != 0 %}
 
 
-<!-- <div class="role flex"> -->
+<div class="role flex">
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
-<!-- </div> -->
+</div>
 
-## Tutors
+<!-- ## Tutors
 {% assign tutors = site.staffers | where: 'role', 'Tutor (UCS1)' %}
 {% assign num_tutors = tutors | size %}
 {% if num_tutors != 0 %}
 
-<!-- <div class="role flex"> -->
+<div class="role flex">
 {% for staffer in tutors %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
-<!-- </div> -->
+</div> -->
