@@ -31,29 +31,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source code
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Setup Ruby environment
-        uses: ruby/setup-ruby@v1
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
         with:
-          ruby-version: '3.3.0'  # Specify Ruby version if not using .ruby-version file
-          bundler-cache: true   # This caches gems to improve build times
-
-      - name: Install dependencies
-        run: |
-          bundle install
-
-      - name: Setup GitHub Pages
+          # The Ruby version is determined by either a `.ruby-version` or a `.tool-versions` file in root of the repo.
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-
-      - name: Build Jekyll site
+      - name: Build with Jekyll
+        # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-
-      - name: Upload site to GitHub Pages
+      - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
 
   # Deployment job
