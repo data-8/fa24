@@ -17,14 +17,6 @@ UC Berkeley, Fall 2024
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1538208/external_tools/90481){: .btn .btn-bcourses}
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
-**Instructor:**
-{: .mb-2 .fs-4}
-
-{% assign instructors = site.staffers | where: 'role', 'InstructorFront' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
-
 {% assign announcements = site.announcements | where: "week", site.current_week | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
