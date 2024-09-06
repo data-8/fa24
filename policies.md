@@ -31,11 +31,11 @@ The curriculum and format are designed specifically for students who have not pr
 
 Our primary text is an online book called [Computational and Inferential Thinking: The Foundations of Data Science](http://inferentialthinking.com/). This text was written for the course by the course instructors. A complete PDF of the textbook can be found in the Student Materials Google Drive.
 
-The computing platform for the course is hosted at data8.datahub.berkeley.edu. Students find it convenient to use their own computer for the course. If you do not have adequate access to a personal computer, we can help you borrow a machine; please contact data8@berkeley.edu.
+The computing platform for the course is hosted at data8.datahub.berkeley.edu. Students find it convenient to use their own computer for the course. If you do not have adequate access to a personal computer, we can help you borrow a machine; please contact [data8@berkeley.edu](mailto:data8@berkeley.edu).
 
 ### Support
 
-You are not alone in this course; the staff and instructors are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/52859/). We will also [hold in-person and virtual office hours](https://www.data8.org/sp24/officehours) that offer drop-in help on assignments and course material.
+You are not alone in this course; the staff and instructors are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/64093/discussion/). We will also [hold in-person and virtual office hours](https://www.data8.org/fa24/schedule) that offer drop-in help on assignments and course material.
 
 Your lab TA will be your main point of contact for all course-related questions/grade clarifications. The TAs are here to support you, so please lean on your lab TA if you need more support in the class or have any questions/concerns.
 
@@ -59,7 +59,7 @@ _Regular Lab_
 
 Regular lab meetings are two hours long. The first hour focuses on the discussion worksheet and group problem-solving. There will be *no technology allowed* during this portion of the lab (all materials required will be available at the lab section). The second hour is dedicated to completing the programming-based lab assignment. **80% of lab credit will be attendance-based. The remaining 20% of credit will be awarded for submitting the lab to Gradescope by the Friday 5 pm deadline with all public test cases passing.** Discussion worksheets do not need to be submitted. Active participation in the discussion and lab is required to earn attendance credit.
 
-Students will be awarded two lab drops to use in the event of extenuating circumstances that prevent them from attending the lab in person. To use a lab drop, you must message your GSI at least one hour prior to the start of your lab, informing them that you will not be in attendance. *Note that lab drops are expected to be used only in the case of illness, emergencies, or other circumstances that prevent you from attending*. For specific concerns related to your lab section, contact your GSI 
+Students will be awarded two lab drops to use in the event of extenuating circumstances that prevent them from attending the lab in person. To use a lab drop, you must message your GSI at least one hour prior to the start of your lab, informing them that you will not be in attendance. *Note that lab drops are expected to be used only in the case of illness, emergencies, or other circumstances that prevent you from attending*. For specific concerns related to your lab section, contact your GSI. 
 
 _Self-Service Lab_
 
@@ -71,11 +71,11 @@ _Choosing a Lab Format_
 
 First-year students and students without prior programming experience are strongly encouraged to choose the regular lab. Working on programming-based lab assignments in a small classroom with dedicated course staff available to help is a great way to learn, especially if this is your first exposure to coding!
 
-The self-service lab is designed to appeal to students who learn well from large-format lectures, work independently at their own pace, and come to drop-in office hours when they need help. However, the regular lab format has advantages for students who wish to practice materials in a discussion-based format,work with others and have a dedicated lab uGSI and tutors for immediate support during lab time. 
+The self-service lab is designed to appeal to students who learn well from large-format lectures, work independently at their own pace, and come to drop-in office hours when they need help. However, the regular lab format has advantages for students who wish to practice materials in a discussion-based format, work with others and have a dedicated lab uGSI and tutors for immediate support during lab time. 
 
 ### Homework and Projects
 
-Weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you can discuss problems with other students and course staff. See the [Learning Cooperatively](https://www.data8.org/sp24/policies/#learning-cooperatively) section below.
+Weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you can discuss problems with other students and course staff. See the [Learning Cooperatively](https://www.data8.org/fa24/policies/#learning-cooperatively) section below.
 
 Homework will be released on Thursday and due the following Wednesday. Similar to the lab policy discussed above, students will be awarded two homework drops for the entire semester, only meant to be used for extenuating circumstances. 
 
@@ -127,7 +127,7 @@ Your two lowest homework scores and two lowest lab scores will be dropped in the
 
 ### Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc2CSE_Ie_TR0r7lV7-JX0zNagoJ08t-EAK48iCAc3rVgHIXw/viewform). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong>. Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc2CSE_Ie_TR0r7lV7-JX0zNagoJ08t-EAK48iCAc3rVgHIXw/viewform). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>Extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong> Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
 
 <u><strong>Please read the entirety of the form and its instructions before/while submitting a request to reduce confusion</strong></u>. 
 
