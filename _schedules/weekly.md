@@ -23,7 +23,7 @@ schedule:
     events:
       - name: Instructor Office Hours
         start: 9:00 AM
-        end: 10:00 AM
+        end: 9:50 AM
         location: Evans 323
       - name: Lecture
         start: 10:00 AM
@@ -63,7 +63,7 @@ schedule:
     events:
       - name: Instructor Office Hours
         start: 9:00 AM
-        end: 10:00 AM
+        end: 9:50 AM
         location: Evans 323
       - name: Lecture
         start: 10:00 AM

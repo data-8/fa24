@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Schedule
+title: Weekly OH
 description: The weekly event schedule.
 nav_order: 2
 ---
 
-# Weekly Schedule
+# Weekly Office Hours
 
 {% for schedule in site.schedules %}
 {{ schedule }}
