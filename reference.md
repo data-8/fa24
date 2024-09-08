@@ -6,11 +6,14 @@ description: >-
     Python Reference Guide
 ---
 
-# Python Reference
+# Detailed Python Reference
 
 {:.no_toc}
-Created by Nishant Kheterpal and Jessica Hu
-Updated and Maintained by Jonathan Ferrari and Edwin Vargas
+Created by Nishant Kheterpal and Jessica Hu,
+Updated and Mantained by Jonathan Ferrari and Edwin Vargas
+
+> **Note:** For Fall 2024 exams, students will receive an abbreviated python reference sheet that can be found [here](https://drive.google.com/file/d/1-QTbe5QiXAB9wz73JVLTYhoUE1V7NqOS/view?usp=drive_link).
+
 {: .no_toc .text-delta }
 
 ## Table of Contents
