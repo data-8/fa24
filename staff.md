@@ -47,7 +47,7 @@ Email `data8@berkeley.edu` for logistical questions!
 {% endif %}
 </div>
 
-<!-- ## Tutors
+## Tutors
 {% assign tutors = site.staffers | where: 'role', 'Tutor (UCS1)' %}
 {% assign num_tutors = tutors | size %}
 {% if num_tutors != 0 %}
@@ -57,4 +57,4 @@ Email `data8@berkeley.edu` for logistical questions!
 {{ staffer }}
 {% endfor %}
 {% endif %}
-</div> -->
+</div>
