@@ -4,6 +4,6 @@ email: brandon_concepcion@berkeley.edu
 pronouns: HE/HIM
 photo: staff/bing_c.jpeg
 website: https://brandonconcepcion.github.io/
-bio: 42 cents with a yeah boiiiiii nice try clearview AI! ! ! ! 
+bio: Me 🤝 Data 8 
 role: uGSI (UCS2)
 ---
