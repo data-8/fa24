@@ -1,9 +1,9 @@
 ---
 name: Bing Concepcion
 email: brandon_concepcion@berkeley.edu
-pronouns: HIM
+pronouns: HE/HIM
 photo: staff/bing_c.jpeg
 website: https://brandonconcepcion.github.io/
-bio: Me + Data 8 = 🔥
+bio: yeah boiiiiii nice try clearview AI! ! ! ! 
 role: uGSI (UCS2)
 ---
