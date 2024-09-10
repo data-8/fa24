@@ -20,7 +20,7 @@ nav_order: 4
 
 ## Head Teaching Assistants
 
-Email `data8@berkeley.edu` for logistical questions!
+**Email [data8@berkeley.edu](mailto:data8@berkeley.edu) for all logistical and student support questions!**
 
 {% assign head_teaching_assistants = site.staffers | where: 'role', '20-hour Lead uGSI (UCS2)' %}
 {% assign num_head_teaching_assistants = head_teaching_assistants | size %}
