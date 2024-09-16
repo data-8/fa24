@@ -11,5 +11,7 @@ date: 2021-09-16
     * {{site.links.proj.proj1}}
         * Checkpoint due on *<u>Friday</u>, September 27th @ 5 PM*
         * Everything due on *<u>Friday</u>, October 4th @ 5 PM*
+* **The midterm is on Friday, 10/18, 7-9 PM**
+    * If you have a time conflict with the midterm, fill out the alternate exam **[form](http://bit.ly/data8mtconflict) ASAP**
 * **Lab 01, Lab 02, HW 01 Score Release [post](https://edstem.org/us/courses/64093/discussion/5272138)**
     * Check that your score looks correct!
