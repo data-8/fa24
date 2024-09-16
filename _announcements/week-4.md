@@ -11,5 +11,5 @@ date: 2021-09-16
     * {{site.links.proj.proj1}}
         * Checkpoint due on *<u>Friday</u>, September 27th @ 5 PM*
         * Everything due on *<u>Friday</u>, October 4th @ 5 PM*
-* Lab 01, Lab 02, HW 01 Score Release [post](https://edstem.org/us/courses/64093/discussion/5272138)
+* **Lab 01, Lab 02, HW 01 Score Release [post](https://edstem.org/us/courses/64093/discussion/5272138)**
     * Check that your score looks correct!
