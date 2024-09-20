@@ -46,13 +46,14 @@ We will post student materials in [this folder](https://drive.google.com/drive/f
 
 ## Past Exams
 Exams, practice exams, and walkthrough videos from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the `datascience` module has changed over time.
-* A review document identifying past exam problems by topic can be found [here!](https://docs.google.com/document/d/1ZjEpBprnr_AL0z4axkTuhZ61Sm6OEVSwfWS7Z6k2D-4/edit?usp=sharing){:target="_blank"}
+
+> **Note:** For the Fall 2024 Midterm, students will receive an [abbreviated reference sheet](https://drive.google.com/file/d/1-QTbe5QiXAB9wz73JVLTYhoUE1V7NqOS/view?usp=drive_link).
 
 {% include past-exams.md %}
 
 
 ## Exam Problems by Topic
-* We apologize this section does not yet currently work for dark mode, we're looking to fix this issue soon!
+* A review document identifying past exam problems by topic can be found [here!](https://docs.google.com/document/d/1ZjEpBprnr_AL0z4axkTuhZ61Sm6OEVSwfWS7Z6k2D-4/edit?usp=sharing){:target="_blank"}
 {% include resources-content.html %}
 
 ## Wellness Resources

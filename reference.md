@@ -6,15 +6,11 @@ description: >-
     Python Reference Guide
 ---
 
-# Detailed Python Reference
+# **Detailed Python Reference**
 
 {:.no_toc}
 Created by Nishant Kheterpal and Jessica Hu,
 Updated and Mantained by Jonathan Ferrari and Edwin Vargas
-
-> **Note:** For Fall 2024 exams, students will receive an abbreviated python reference sheet that can be found [here](https://drive.google.com/file/d/1-QTbe5QiXAB9wz73JVLTYhoUE1V7NqOS/view?usp=drive_link).
-
-{: .no_toc .text-delta }
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -23,6 +19,14 @@ Updated and Mantained by Jonathan Ferrari and Edwin Vargas
 {:toc}
 
 ---
+
+## Abbreviated Reference Sheet
+
+For Fall 2024, students will receive an abbreviated reference sheet for exams. 
+
+* [Midterm reference sheet](https://drive.google.com/file/d/1-QTbe5QiXAB9wz73JVLTYhoUE1V7NqOS/view?usp=drive_link)
+
+--- 
 
 ## Table Functions and Methods
 In the examples in the left column, `np` refers to the NumPy module, as usual. Everything else is a function, a method, an example of an argument to a function or method, or an example of an object we might call the method on. For example, `tbl` refers to a table, `array` refers to an array, and `num` refers to a number. `array.item(0)` is an example call for the method item, and in that example, `array` is the name previously given to some array.
