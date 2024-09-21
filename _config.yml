@@ -34,15 +34,15 @@ url: 'https://www.data8.org' # the hostname & protocol for your site, e.g. http:
 # TODO(setup): Set all of these course variables
 course: Data 8
 course_email: data8@berkeley.edu
-gradescope_course_id: 123456 # you can find this in the Gradescope URL after /courses
-bcourses_course_id: 123456 # Same as above, but for bCourses. Leave blank if not in use...
-ed_course_id: 123456 # Again, same as above.
+gradescope_course_id: 835871 # you can find this in the Gradescope URL after /courses
+bcourses_course_id: 1538208 # Same as above, but for bCourses. Leave blank if not in use...
+ed_course_id: 64093 # Again, same as above.
 sememster: fa24 # set for the current seemester
 # This should be one of eecs, dsus, stat
 # (Future) This will control some footer text, and later custom styling.
 course_department: dsus
 logo: "/data8logo.png"
-current_week: 4
+current_week: 5
 # This should be the page of all class archives
 # Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
 # If you have no archive page, comment this line out or leave blank.
