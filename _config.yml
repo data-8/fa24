@@ -238,7 +238,7 @@ links:
     wksht12: ""
     wksht13: ""
   proj:
-    proj1: "Project 1: World Population and Poverty"
+    proj1: "[Project 1: World Population and Poverty](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fproject%2Fproject1%2Fproject1.ipynb)"
     proj2: "Project 2: Climate"
     proj3: "Project 3: Classifying Movies"
   lec:
