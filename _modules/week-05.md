@@ -8,7 +8,8 @@ Sep 23
 : **11**{: .label} Pivots and Joins
     : {{site.links.lec.slides.slide11}} {{site.links.lec.demo.demo11}}
 : _Reading:_ [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
-: **Lab**{: .label .label-lab} Project 1 Work Time
+: **Lab**{: .label .label-lab} Project 1 Work Time 
+    : {{site.links.wksht.wksht05}}
 
 
 Sep 25
