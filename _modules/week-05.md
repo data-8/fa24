@@ -14,7 +14,7 @@ Sep 23
 
 Sep 25
 : **12**{: .label} Iteration
-    : {{site.links.lec.slides.slide13}} {{site.links.lec.demo.demo13}}
+    : {{site.links.lec.slides.slide12}} {{site.links.lec.demo.demo12}}
 : _Reading:_ [9](https://inferentialthinking.com/chapters/09/Randomness.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
 
 Sep 27
