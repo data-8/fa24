@@ -7,14 +7,14 @@ status: Active
 Oct 7
 : **17**{: .label} Decisions and Uncertainty
     : {{site.links.lec.slides.slide18}} {{site.links.lec.demo.demo18}}
-: _Reading:_ [13](https://inferentialthinking.com/chapters/13/Estimation.html), [13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html), [13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
+: _Reading:_ [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab07}} (Due 10/11)
     : {{site.links.wksht.wksht07}}
 
 Oct 9
 : **18**{: .label} A/B Testing
     : {{site.links.lec.slides.slide19}} {{site.links.lec.demo.demo19}}
-: _Reading:_ [13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html), [13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)
+: _Reading:_ [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
 
 Oct 11
 : **19**{: .label} Causality
