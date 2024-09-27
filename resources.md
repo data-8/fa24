@@ -54,6 +54,7 @@ Exams, practice exams, and walkthrough videos from previous semesters can be fou
 
 ## Exam Problems by Topic
 * A review document identifying past exam problems by topic can be found [here!](https://docs.google.com/document/d/1ZjEpBprnr_AL0z4axkTuhZ61Sm6OEVSwfWS7Z6k2D-4/edit?usp=sharing){:target="_blank"}
+* Made by Brandon Concepcion
 {% include resources-content.html %}
 
 ## Wellness Resources
