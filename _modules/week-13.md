@@ -6,12 +6,12 @@ status: Active
 
 Nov 18
 : **34**{: .label} Classification
-    : {{site.links.lec.slides.slide35}} {{site.links.lec.demo.demo35}}
+    : {{site.links.lec.slides.slide35}} {{site.links.lec.demo.demo34}}
 : **Lab**{: .label .label-lab} Project 3 Work Time
 
 Nov 20
 : **35**{: .label} Evaluating Classifiers
-    : {{site.links.lec.slides.slide36}} {{site.links.lec.demo.demo36}}
+    : {{site.links.lec.slides.slide36}} {{site.links.lec.demo.demo35}}
 
 Nov 22
 : **36**{: .label} Multiple Linear Regression 

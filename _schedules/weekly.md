@@ -62,8 +62,8 @@ schedule:
   - name: Friday
     events:
       - name: Instructor Office Hours
-        start: 9:00 AM
-        end: 9:50 AM
+        start: 11:10 AM
+        end: 12:00 PM
         location: Evans 323
       - name: Lecture
         start: 10:00 AM
