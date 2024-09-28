@@ -15,6 +15,6 @@ Dec 4
     : {{site.links.lec.slides.slide39}} {{site.links.lec.demo.demo39}}
 
 Dec 6
-: **40**{: .label} Conclusion
+: **40**{: .label} Conclusion/Staff Panel
   : {{site.links.lec.slides.slide40}} {{site.links.lec.demo.demo40}}
 : **Homework**{: .label .label-homework} {{site.links.hw.hw13}} (Due 12/11)
