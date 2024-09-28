@@ -6,7 +6,7 @@ description: >-
     Debugging
 ---
 
-# Debugging
+# **Debugging**
 {:.no_toc}
 
 ## Table of Contents

@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 {:.no_toc}
-# Resources
+# **Resources**
 
 ## Table of Contents
 {: .no_toc .text-delta }

@@ -6,7 +6,7 @@ description: >-
 nav_order: 3
 ---
 
-# Policies
+# **Policies**
 {:.no_toc}
 
 ## Table of contents
