@@ -6,7 +6,7 @@ description: >-
     Frequently Asked Questions
 ---
 
-# Frequently Asked Questions
+# **Frequently Asked Questions**
 
 <br>
 
