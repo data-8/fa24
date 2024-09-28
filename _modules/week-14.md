@@ -5,7 +5,7 @@ status: Active
 ---
 
 Nov 25
-: **37**{: .label} Staff Panel
+: **37**{: .label} Case Study: Privacy
     : {{site.links.lec.slides.slide37}} {{site.links.lec.demo.demo37}}
 
 Nov 27
