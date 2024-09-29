@@ -12,10 +12,10 @@ Sep 2
 Sep 4
 : **3**{: .label} Tables
     : {{site.links.lec.slides.slide03}} {{site.links.lec.demo.demo03}}
-: _Reading:_ [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)
+: _Reading:_ [3](https://inferentialthinking.com/chapters/03/programming-in-python.html){:target="_blank"}
 
 Sep 6
 : **4**{: .label} Data Types
     : {{site.links.lec.slides.slide04}} {{site.links.lec.demo.demo04}}
-: _Reading:_ [4](https://inferentialthinking.com/chapters/04/Data_Types.html), [5](https://inferentialthinking.com/chapters/05/Sequences.html)
+: _Reading:_ [4](https://inferentialthinking.com/chapters/04/Data_Types.html){:target="_blank"}, [5](https://inferentialthinking.com/chapters/05/Sequences.html){:target="_blank"}
 : **Homework**{: .label .label-homework} {{site.links.hw.hw02}} (Due 9/11)
