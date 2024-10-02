@@ -6,11 +6,11 @@ description: >-
     Python Reference Guide
 ---
 
-# **Detailed Python Reference**
+# **Detailed Python Reference Sheet**
 
 {:.no_toc}
 Created by Nishant Kheterpal and Jessica Hu,
-Updated and Mantained by Jonathan Ferrari and Edwin Vargas
+Updated and Maintained by Jonathan Ferrari and Edwin Vargas
 
 ## Table of Contents
 {: .no_toc .text-delta }
