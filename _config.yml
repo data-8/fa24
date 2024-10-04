@@ -42,7 +42,7 @@ sememster: fa24 # set for the current seemester
 # (Future) This will control some footer text, and later custom styling.
 course_department: dsus
 logo: "/data8logo.png"
-current_week: 5
+current_week: 6
 # This should be the page of all class archives
 # Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
 # If you have no archive page, comment this line out or leave blank.
@@ -217,19 +217,19 @@ links:
     lab02: "[Lab 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab02%2Flab02.ipynb)"
     lab03: "[Lab 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab03%2Flab03.ipynb)"
     lab04: "[Lab 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab04%2Flab04.ipynb)"
-    lab05: "Lab 05"
+    lab05: "[Lab 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab05%2Flab05.ipynb)"
     lab06: "Lab 06"
     lab07: "Lab 07"
     lab08: "Lab 08"
     lab09: "Lab 09"
     lab10: "Lab 10"
   wksht:
-    wksht01: "[Lab 01 Worksheet](https://drive.google.com/file/d/1SxtXURV9UabpSOtQDvRXy9qb6DxkSBF9/view?usp=sharing)"
-    wksht02: "[Lab 02 Worksheet](https://drive.google.com/file/d/1jHmmIzs38SDVZ9BO6P7116lv5Tb9uaji/view?usp=sharing)"
-    wksht03: "[Lab 03 Worksheet](https://drive.google.com/file/d/1J4AME-GGaT6vqnjmOvBBXFC8hB57SJl_/view?usp=sharing)"
-    wksht04: "[Lab 04 Worksheet](https://drive.google.com/file/d/1nP-MkclyDgtTeh1UBKRvmgMILNCy1MIg/view?usp=sharing)"
-    wksht05: "[Lab 05 Worksheet](https://drive.google.com/file/d/1bnRdOnbvWW0cgXUnvWgQcTaHfvCZrXco/view?usp=sharing)"
-    wksht06: ""
+    wksht01: "[Discussion 01 Worksheet](https://drive.google.com/file/d/1SxtXURV9UabpSOtQDvRXy9qb6DxkSBF9/view?usp=sharing)"
+    wksht02: "[Discussion 02 Worksheet](https://drive.google.com/file/d/1jHmmIzs38SDVZ9BO6P7116lv5Tb9uaji/view?usp=sharing)"
+    wksht03: "[Discussion 03 Worksheet](https://drive.google.com/file/d/1J4AME-GGaT6vqnjmOvBBXFC8hB57SJl_/view?usp=sharing)"
+    wksht04: "[Discussion 04 Worksheet](https://drive.google.com/file/d/1nP-MkclyDgtTeh1UBKRvmgMILNCy1MIg/view?usp=sharing)"
+    wksht05: "[Discussion 05 Worksheet](https://drive.google.com/file/d/1bnRdOnbvWW0cgXUnvWgQcTaHfvCZrXco/view?usp=sharing)"
+    wksht06: "[Discussion 06 Worksheet](https://drive.google.com/file/d/1hiCxi9Kddl2f3QwiKuKvOqRRnPI9zSK8/view?usp=sharing)"
     wksht07: ""
     wksht08: ""
     wksht09: ""
@@ -256,8 +256,8 @@ links:
       demo11: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec11/lec11.ipynb&branch=main)"
       demo12: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec12/lec12.ipynb&branch=main)"
       demo13: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec13/lec13.ipynb&branch=main)"
-      demo14: ""
-      demo15: ""
+      demo14: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec14/lec14.ipynb&branch=main)"
+      demo15: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec15/lec15.ipynb&branch=main)"
       demo16: ""
       demo17: ""
       demo18: ""
@@ -297,8 +297,8 @@ links:
       slide11: "[Slides](https://docs.google.com/presentation/d/1RLChbFMU9zCaUmeIipkVvHpBJyufgYxJHNFfLpcVFWM/edit?usp=sharing)"
       slide12: "[Slides](https://docs.google.com/presentation/d/1PeGiEe29n6bAX_mAeOrffRm1NvI21KLJYL8u5NBiCmQ/edit?usp=sharing)"
       slide13: "[Slides](https://docs.google.com/presentation/d/1g03KPmT194s3jw4BKNBKM4tL-krjWhBBtlL0CgQ7qik/edit?usp=sharing)"
-      slide14: ""
-      slide15: ""
+      slide14: "[Slides](https://docs.google.com/presentation/d/1PSduHebl6HyV0nF35BXX67Vp-BsA4AGtd4FI1Xa-s9o/edit?usp=sharing)"
+      slide15: "[Slides](https://docs.google.com/presentation/d/1zhcke7aJil27cVT5vRzh6-o-OXwT6oYxi3R3VnQuBgU/edit?usp=sharing)"
       slide16: ""
       slide17: ""
       slide18: ""
