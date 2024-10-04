@@ -18,6 +18,8 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+  - '6:00 PM'
+  - '8:00 PM'
 schedule:
   - name: Monday
     events:
@@ -59,11 +61,15 @@ schedule:
         start: 10:00 AM
         end: 2:00 PM
         location: Warren 101-B
+      - name: Office Hours
+        start: 6:00 PM
+        end: 8:00 PM
+        location: Evans 458 (Project Party!)
   - name: Friday
     events:
       - name: Instructor Office Hours
-        start: 11:10 AM
-        end: 12:00 PM
+        start: 9:00 AM
+        end: 9:50 AM
         location: Evans 323
       - name: Lecture
         start: 10:00 AM

@@ -6,11 +6,11 @@ description: >-
     Python Reference Guide
 ---
 
-# **Detailed Python Reference**
+# **Detailed Python Reference Sheet**
 
 {:.no_toc}
 Created by Nishant Kheterpal and Jessica Hu,
-Updated and Mantained by Jonathan Ferrari and Edwin Vargas
+Updated and Maintained by Jonathan Ferrari and Edwin Vargas
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -29,7 +29,7 @@ For Fall 2024, students will receive an abbreviated reference sheet for exams.
 --- 
 
 ## Table Functions and Methods
-In the examples in the left column, `np` refers to the NumPy module, as usual. Everything else is a function, a method, an example of an argument to a function or method, or an example of an object we might call the method on. For example, `tbl` refers to a table, `array` refers to an array, and `num` refers to a number. `array.item(0)` is an example call for the method item, and in that example, `array` is the name previously given to some array.
+In the examples in the left column, `np` refers to the NumPy module, as usual. Everything else is a function, a method, an example of an argument to a function or method, or an example of an object we might call the method on. For example, `tbl` refers to a table, `array` refers to an array, `str` refers to a string, and `num` refers to a number. `array.item(0)` is an example call for the method item, and in that example, `array` is the name previously given to some array.
 
 | **Name** | **Description** | **Input** | **Output** |
 | `Table()` | Create an empty table, usually to extend with data ([Ch 6](https://inferentialthinking.com/chapters/06/Tables.html)) | None | An empty **Table** |

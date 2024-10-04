@@ -22,7 +22,10 @@ description: >-
 If one particular cell seems to cause your kernel to die, your code is probably incorrect in a way that is causing the computer to use more memory than it has available. For instance: your code is trying to create a gigantic array. To prevent from crashing the entire server, the kernel will “die”. This is an indication that there is a mistake in your code that you need to fix.
 
 ### My python code cell has turned into a text/markdown cell. How do I change it back?
-Click on the cell and select `Run > Cell Type > Change to Code Cell Type` in the top toolbar.
+Click on the cell and select `Markdown > Code` in the top toolbar. Alternatively, click on the cell and press `y`.
+
+### My markdown text cell has turned into a code cell. How do I change it back?
+Click on the cell and select `Code > Markdown` in the top toolbar. Alternatively, click on the cell and press `m`.
 
 ### How do I quickly run all the cells in a notebook?
 Go to the Cell menu in the top toolbar, then “Run All.” You can also select a certain cell and run all cells before this point, or run all cells after this point. You should run all the cells in your notebook before submitting to confirm that you pass all the tests.
