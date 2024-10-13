@@ -90,3 +90,13 @@
 .dropdownContent::-webkit-scrollbar-thumb:hover {
     background: #555; 
 }
+
+code {
+    font-size: 1em; // Override theme...
+    padding: 0.2em 0.4em;
+    line-height: 1.6;
+    border: none;
+  
+    background-color: $code-bg-color;
+    color: $code-color;
+  }
