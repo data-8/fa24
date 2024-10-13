@@ -13,6 +13,8 @@ $nav-child-link-color: $grey-dk-000;
 $sidebar-color: $grey-dk-300;
 $base-button-color: $grey-dk-250;
 // $btn-primary-color: $blue-200;
+$code-bg-color: $body-background-color;
+$code-color: #e685b5; // Bootstrap 5 default
 $code-background-color: #31343f; // OneDarkJekyll default for syntax-one-dark-vivid
 $code-linenumber-color: #dee2f7; // OneDarkJekyll .nf for syntax-one-dark-vivid
 $feedback-color: darken($sidebar-color, 3%);
