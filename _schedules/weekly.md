@@ -52,7 +52,7 @@ schedule:
         end: 11:00 AM
         location: Wheeler 150
       - name: Instructor Office Hours
-        start: 11:00 AM
+        start: 11:10 AM
         end: 12:00 PM
         location: Evans 323
       - name: Office Hours
