@@ -9,7 +9,7 @@ Oct 28
     : {{site.links.lec.slides.slide26}} {{site.links.lec.demo.demo26}}
 : _Reading:_ [14.3](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html), [14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab08}} (Due 11/1)
-  : {{site.links.wksht.wksht08}}
+  : {{site.links.wksht.wksht09}}
 
 Oct 30
 : **27**{: .label} Sample Means

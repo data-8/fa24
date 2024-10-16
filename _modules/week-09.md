@@ -9,7 +9,7 @@ Oct 21
     : {{site.links.lec.slides.slide23}} {{site.links.lec.demo.demo23}}
 : _Reading:_ [13](https://inferentialthinking.com/chapters/13/Estimation.html), [13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html), [13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab07}} (Due 10/25)
-    : {{site.links.wksht.wksht07}}
+    : {{site.links.wksht.wksht10}}
 
 Oct 23
 : **24**{: .label} Interpreting Confidence
