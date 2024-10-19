@@ -9,6 +9,8 @@ nav_order: 4
 
 <!-- Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`. -->
 
+Hover over some of our icons for a fun surprise :0. We hope you enjoy Data 8 as much as we did!
+
 ## Instructors
 
 <div class="role flex">
