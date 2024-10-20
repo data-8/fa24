@@ -40,10 +40,6 @@ We will post student materials in [this folder](https://drive.google.com/drive/f
 
 ## Exam Resources
 
-### Study Guides
-* The midterm study guide will be distributed with the midterm exam.
-* The final study guide will be distributed with the final exam.
-
 ## Past Exams
 Exams, practice exams, and walkthrough videos from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the `datascience` module has changed over time.
 
