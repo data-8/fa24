@@ -7,13 +7,13 @@ status: Active
 Oct 14
 : **20**{: .label} Midterm Review I
     : {{site.links.lec.slides.slide20}} {{site.links.lec.demo.demo20}}
-: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht08}}
 : **Lab**{: .label .label-lab} Midterm Review     
 
 
 Oct 16
 : **21**{: .label} Midterm Review II
     : {{site.links.lec.slides.slide21}} {{site.links.lec.demo.demo21}}
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht08}}
     
 
 Oct 18
