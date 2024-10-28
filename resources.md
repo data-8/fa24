@@ -36,6 +36,7 @@ We will post student materials in [this folder](https://drive.google.com/drive/f
 
 ### Supplemental Videos
 * [Group Animation](https://youtu.be/HLoYTCUP0fc?si=J160YHimo01SVKl0){:target="_blank"}
+* [Join Animation](https://youtu.be/ZGPlcpACNC0?si=nbxrVsBC7hGgV8-n){:target="_blank"}
 * [Pivot Animation](https://youtu.be/4WzXo8eKLAg?si=dWrB6Vedh041wV-N){:target="_blank"}
 
 ## Exam Resources
