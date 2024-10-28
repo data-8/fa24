@@ -9,12 +9,13 @@ Sep 16
     : {{site.links.lec.slides.slide08}} {{site.links.lec.demo.demo08}}
 : _Reading:_ [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab04}} (Due 9/20)
-    : {{site.links.wksht.wksht04}} 
+
 
 Sep 18
 : **9**{: .label} Functions
     : {{site.links.lec.slides.slide09}} {{site.links.lec.demo.demo09}}
 : _Reading:_ [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht04}}
 
 Sep 20
 : **10**{: .label} Groups
