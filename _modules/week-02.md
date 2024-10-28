@@ -13,6 +13,7 @@ Sep 4
 : **3**{: .label} Tables
     : {{site.links.lec.slides.slide03}} {{site.links.lec.demo.demo03}}
 : _Reading:_ [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht02}}
 
 Sep 6
 : **4**{: .label} Data Types
