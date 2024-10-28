@@ -9,11 +9,11 @@ Dec 2
     : {{site.links.lec.slides.slide38}} {{site.links.lec.demo.demo38}}
 : _Reading:_ [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html), [18.1](https://inferentialthinking.com/chapters/18/1/More_Likely_than_Not_Binary_Classifier.html), [18.2](https://inferentialthinking.com/chapters/18/2/Making_Decisions.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab10}} (Due 12/6)
-  : {{site.links.wksht.wksht10}}
 
 Dec 4
 : **39**{: .label} Case Study: Computer Vision 
     : {{site.links.lec.slides.slide39}} {{site.links.lec.demo.demo39}}
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht14}}
 
 Dec 6
 : **40**{: .label} Conclusion/Staff Panel
