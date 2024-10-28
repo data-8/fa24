@@ -42,7 +42,7 @@ sememster: fa24 # set for the current seemester
 # (Future) This will control some footer text, and later custom styling.
 course_department: dsus
 logo: "/data8logo.png"
-current_week: 9
+current_week: 10
 # This should be the page of all class archives
 # Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
 # If you have no archive page, comment this line out or leave blank.
@@ -268,7 +268,7 @@ links:
       demo23: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec23/lec23.ipynb&branch=main)"
       demo24: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec24/lec24.ipynb&branch=main)"
       demo25: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec25/lec25.ipynb&branch=main)"
-      demo26: ""
+      demo26: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec26/lec26.ipynb&branch=main)"
       demo27: ""
       demo28: ""
       demo29: ""
@@ -309,7 +309,7 @@ links:
       slide23: "[Slides](https://docs.google.com/presentation/d/1-HdYcHSDkX-N2mBePG04rwJDx6hQYLz_Xf_zBoLzWQA/edit?usp=sharing)"
       slide24: "[Slides](https://docs.google.com/presentation/d/1Ja1vR8eI06S-z5HUi15PUxLxulNbcTzZKZuU_CJsjSQ/edit?usp=sharing)"
       slide25: "[Slides](https://docs.google.com/presentation/d/1sFxHzNNzj_cB3Zv-4lsDoKgZKI-syedZOpUueLz5pQQ/edit?usp=sharing)"
-      slide26: ""
+      slide26: "[Slides](https://docs.google.com/presentation/d/1ueDiwWxuY_4-57YtH9ARXIHiu-WGekHXnmzJPIvFFXM/edit?usp=sharing)"
       slide27: ""
       slide28: ""
       slide29: ""
