@@ -61,10 +61,6 @@ schedule:
         start: 10:00 AM
         end: 2:00 PM
         location: Warren 101-B
-      - name: Office Hours
-        start: 6:00 PM
-        end: 8:00 PM
-        location: Evans 458 (Project Party!)
   - name: Friday
     events:
       - name: Instructor Office Hours
