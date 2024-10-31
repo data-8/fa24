@@ -38,7 +38,9 @@ jobs:
         with:
           # The Ruby version is determined by either a `.ruby-version` or a `.tool-versions` file in root of the repo.
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 1 # Increment this number if you need to re-download cached gems
+          cache-version: 2 # Increment this number if you need to re-download cached gems
+      - name: Install dependencies
+        run: bundle install
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
