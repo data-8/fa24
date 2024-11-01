@@ -7,4 +7,5 @@ website: https://linktr.ee/bingfa24
 bio: Me 🤝 Data 8 
 role: uGSI (UCS2)
 hover-photo: hovers/bing_hover.png
+team: TAContent
 ---
