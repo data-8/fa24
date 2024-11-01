@@ -17,7 +17,13 @@
   {% endif %}
   <div>
     {%- if page.team -%}
-    <span class="team label-{{ page.team }}">{{ page.team }}</span>
+    {%- assign team_name = page.team -%}
+    {%- if team_name contains "TA" -%}
+        {%- assign stripped_name = team_name | replace: "TA", "" -%}
+        <span class="team label-{{ team_name }}">{{ stripped_name | strip }}</span>
+    {%- else -%}
+        <span class="team label-{{ team_name }}">{{ team_name }}</span>
+    {%- endif -%}
     {%- endif -%}
     <h3 class="staffer-name" id="{{ page.name | slugify }}">
       {%- if page.website -%}
