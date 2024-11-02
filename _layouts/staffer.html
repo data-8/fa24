@@ -17,7 +17,13 @@
   {% endif %}
   <div>
     {%- if page.team -%}
-    <span class="team label-{{ page.team }}">{{ page.team }}</span>
+    {%- assign team_name = page.team -%}
+    {%- if team_name contains "TA" -%}
+        {%- assign stripped_name = team_name | replace: "TA", "" -%}
+        <span class="team label-{{ team_name }}">{{ stripped_name | strip }}</span>
+    {%- else -%}
+        <span class="team label-{{ team_name }}">{{ team_name }}</span>
+    {%- endif -%}
     {%- endif -%}
     <h3 class="staffer-name" id="{{ page.name | slugify }}">
       {%- if page.website -%}
@@ -35,13 +41,14 @@
     <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
     {%- endif -%}
 
+    {%- if page.office-hours -%} <!--Change the underscore to a hyphen when you want to display it-->
+    <p class="staffer-meta">Office Hours: {{ page.office-hours | markdownify | strip_html }}</p>
+    {%- endif -%}
+
     {%- if page.bio -%}
     <p class="staffer-meta">{{ page.bio | markdownify | strip_html }}</p>
     {%- endif -%}
-    
-    {%- if page.office_hours -%} <!--Change the underscore to a hyphen when you want to display it-->
-    <p class="staffer-meta">Office Hours: {{ page.office_hours | markdownify | strip_html }}</p>
-    {%- endif -%}
+  
     {{ content }}
   </div>
 </div>
