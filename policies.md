@@ -181,32 +181,7 @@ With regards to reports of sexual misconduct/violence/assault, you may speak wit
 
 Below are some campus resources that also may be helpful during the semester:
 
-[University Health Services](https://uhs.berkeley.edu/)
-
-[UCB Path to Care](https://care.berkeley.edu/)
-
-[Student Learning Center](https://slc.berkeley.edu/home)
-
-[Berkeley International Office](https://internationaloffice.berkeley.edu/home)
-
-[Ombuds Office for Students and Postdoctoral Appointees](https://studentaffairs.berkeley.edu/ombuds-office-for-students-postdoctoral-appointees/)
-
-[Gender Equity Resource Center](https://cejce.berkeley.edu/geneq)
-
-[Disabled Students' Program](https://dsp.berkeley.edu/)
-
-[Center for Educational Justice & Community Engagement](https://cejce.berkeley.edu/)
-
-[UHS Counseling and Psychological Services (CAPS)](https://uhs.berkeley.edu/caps)
-
-[Campus Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub)
-
-[ASUC Student Advocate’s Office](https://advocate.studentorg.berkeley.edu/)
-
-[Basic Needs Center](https://basicneeds.berkeley.edu/home)
-
-[ASUC Mental Health Resources Guide](https://asuc.org/wp-content/uploads/2018/02/Mental-Health-Resources.pdf)
-
+{% include campus_resources.html %}
 
 
 ## A Parting Thought
