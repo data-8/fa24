@@ -58,9 +58,13 @@ Exams, practice exams, and walkthrough videos from previous semesters can be fou
 
 Your well-being matters, and we hope that Data 8 is _never_ a barrier to taking care of your mental and physical health. Below are some campus resources that may be helpful:
 
+{% include wellness.html %}
+
+<!--
 * [University Health Services](https://uhs.berkeley.edu/){:target="_blank"}
 * [UHS Counseling and Psychological Services (CAPS)](https://uhs.berkeley.edu/caps){:target="_blank"}
 * [Campus Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub){:target="_blank"}
 * [ASUC Student Advocate's Office](https://advocate.berkeley.edu/){:target="_blank"}
 * [Basic Needs Center](https://basicneeds.berkeley.edu/){:target="_blank"}
 * [ASUC Mental Health Resources Guide](https://asuc.org/wp-content/uploads/2018/02/Mental-Health-Resources.pdf){:target="_blank"}
+-->
