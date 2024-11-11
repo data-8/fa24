@@ -8,4 +8,24 @@
   .announcement-meta {
     @extend .text-epsilon;
   }
+
+  .announcement-content {
+    @extend .text-delta;
+  }
+
+  // add padding to top
+  padding: 0.05rem 1rem;
+}
+
+#announcement-navigation {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px; /* Optional: Add padding to give some space on the sides */
+}
+
+#prev-week,
+#next-week {
+  visibility: visible; /* Ensure they are visible or set visibility dynamically in JavaScript */
+  font-weight: bold;
+  text-decoration: none;
 }
