@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Policies
+title: 📜 Policies
 description: >-
     Course policies and information.
 nav_order: 3

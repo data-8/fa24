@@ -1,7 +1,7 @@
 ---
 layout: page
 nav_order: 6
-title: FAQs
+title: 🤔 FAQs
 description: >-
     Frequently Asked Questions
 ---

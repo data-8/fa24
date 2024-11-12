@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: 🏠 Home
 description: Listing of course modules and topics.
 nav_order: 1
 permalink: /
