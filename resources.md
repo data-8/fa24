@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: 📚 Resources
 description: >-
     Course resources
 nav_order: 5

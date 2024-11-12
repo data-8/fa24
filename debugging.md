@@ -1,7 +1,7 @@
 ---
 layout: page
 nav_order: 8
-title: Debugging
+title: 💻 Debugging
 description: >-
     Debugging
 ---
