@@ -9,7 +9,21 @@ nav_order: 4
 
 <!-- Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`. -->
 
+<!--
+<p style="font-size:30px">Note: This page is under construction.</p>
+
+
+<p style="font-size:30px">Please check back soon for an updated staff roster!</p>
+--->
+
 We hope you enjoy Data 8 as much as we did! Hover over some of our icons for a fun surprise :0 
+
+-Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-assistants), [Teaching Assistants](#teaching-assistants), [Tutors](#tutors)
+
+<!-->
+1. TOC
+{:toc}
+-->
 
 ## Instructors
 
