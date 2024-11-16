@@ -19,4 +19,4 @@ Nov 15
     : {{site.links.lec.slides.slide33}} {{site.links.lec.demo.demo33}}
 : _Reading:_ [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw11}} (Due 11/20)
-: **Project**{: .label .label-project} {{site.links.proj.proj3}} (Due Fri 12/6)
+: **Project**{: .label .label-project} {{site.links.proj.proj3}} (Due Fri 12/6, Checkpoint Fri 11/22)
