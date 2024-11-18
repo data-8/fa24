@@ -55,7 +55,10 @@
   }
   
   .site-logo {
-    background-position: center !important;
+    /*background-position: center !important;*/
+    background-position: bottom !important; /*for Thanksgiving */
+    width: 95%;
+    height: 151%;
   }
   
   .flex {
