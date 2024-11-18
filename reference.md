@@ -119,12 +119,14 @@ First, to enter shortcut mode/exit editing mode, press `Esc`. This will then ena
 |---|---|
 |To enter shortcut mode/exit editing mode|`Esc`|
 |Enter edit mode | `Enter`|
-|Insert cell above|`A`|
-|Insert cell below|`B`|
-|Delete selected cell|`D` + `D` (Press `D` twice)|
-|Undo cell operation|`Z`|
-|Copy cell|`C`|
-|Paste cell|`V`|
-|Paste cell above|`Shift` + `V`|
-|Redo|`Ctrl` + `Shift` + `Z`|
-|Undo|`Ctrl` + `Z`|
+|Insert cell above|`a`|
+|Insert cell below|`b`|
+|Delete selected cell|`d` + `d` (Press `d` twice)|
+|Convert cell to Markdown cell | `m` |
+|Convert cell to Code cell | `y` |
+|Undo cell operation|`z`|
+|Copy cell|`c`|
+|Paste cell|`v`|
+|Paste cell above|`Shift` + `v`|
+|Redo|`Ctrl` + `Shift` + `z`|
+|Undo|`Ctrl` + `z`|
