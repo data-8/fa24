@@ -42,7 +42,7 @@ sememster: fa24 # set for the current seemester
 # (Future) This will control some footer text, and later custom styling.
 course_department: dsus
 logo: "/data8logo.png"
-current_week: 12
+current_week: 13
 # This should be the page of all class archives
 # Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
 # If you have no archive page, comment this line out or leave blank.
@@ -223,7 +223,7 @@ links:
     lab08: "[Lab 08: Sample Means](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab08%2Flab08.ipynb)"
     lab09: "[Lab 09: Regression](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab09%2Flab09.ipynb)"
     lab10: "Lab 10: Conditional Probability"
-  wksht:
+  wksht: 
     wksht01: "[Worksheet 01](https://drive.google.com/file/d/1SxtXURV9UabpSOtQDvRXy9qb6DxkSBF9/view?usp=sharing)"
     wksht02: "[Worksheet 02](https://drive.google.com/file/d/1jHmmIzs38SDVZ9BO6P7116lv5Tb9uaji/view?usp=sharing)"
     wksht03: "[Worksheet 03](https://drive.google.com/file/d/1J4AME-GGaT6vqnjmOvBBXFC8hB57SJl_/view?usp=sharing)"
@@ -277,7 +277,7 @@ links:
       demo31: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec31/lec31.ipynb&branch=main)"
       demo32: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec32/lec32.ipynb&branch=main)"
       demo33: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec33/lec33.ipynb&branch=main)"
-      demo34: ""
+      demo34: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec34/lec34.ipynb&branch=main)"
       demo35: ""
       demo36: ""
       demo37: ""
@@ -318,7 +318,7 @@ links:
       slide31: "[Slides](https://docs.google.com/presentation/d/1O9EEvtQhtdQ7b7EaRX8vIlY5FV50qC-DMVUpZoZEbE0/edit?usp=sharing)"
       slide32: "[Slides](https://docs.google.com/presentation/d/1dKMDfpT_J2EZHb20LG83iWlXNx17y8ULxS_nHf4Nacw/edit?usp=sharing)"
       slide33: "[Slides](https://docs.google.com/presentation/d/1evDg9pMH_rO2XmDcN-TAqeD2y6VvGZ28a3jjzZQLC2g/edit?usp=sharing)"
-      slide34: ""
+      slide34: "[Slides](https://docs.google.com/presentation/d/1zolp7ndo8kpn6TXSSJwTngf8VaX59ucjqeni36IMIVM/edit?usp=sharing)"
       slide35: ""
       slide36: ""
       slide37: ""
