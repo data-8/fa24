@@ -39,7 +39,7 @@ You probably ran your notebook out of order. Re-run all previous cells in order,
 ### Why did a Gradescope test fail, when all the notebook’s tests passed?
 This can happen if you’re running your notebook’s cells out-of-order. The autograder runs your notebook top-to-bottom. If you’re defining a variable at the bottom of your notebook and using it at the top, the Gradescope autograder will fail because it doesn’t recognize the variable when it encounters it.
 
-Additionally, this can fail if youhave not saved before you run the autograder. Ensure you select File -> Save Notebook to avoid this.
+Additionally, this can fail if you have not saved before you run the autograder. Ensure you select File -> Save Notebook to avoid this.
 
 This is why we recommend running Kernel -> Restart and Run All: it “forgets” all of the variables and runs the notebook from top-to-bottom, just like the Gradescope autograder will. This will highlight any issues. Find the first cell that raises an error. Make sure that all of the variables used in that cell have been defined above that cell, and not below.
 
