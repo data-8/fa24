@@ -17,5 +17,5 @@ Dec 4
 : **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht14}}
 
 Dec 6
-: **40**{: .label} Conclusion/Staff Panel
+: **40**{: .label} Conclusion
   : {{site.links.lec.slides.slide40}} {{site.links.lec.demo.demo40}}
