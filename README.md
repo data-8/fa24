@@ -1,7 +1,7 @@
 # DATA 8 Fall 2024
 
 Managed by FALL 2024 #TeamContent: 
-* Leads: Edwin Vargas Navarro 
+* Leads: Edwin Vargas Navarro and Ella DeGuzman
 * Members: Bing Concepcion, Colin Olairez, Marissa Lumpkin, Mia Yen
 
 [![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml) •
