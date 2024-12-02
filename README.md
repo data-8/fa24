@@ -4,9 +4,6 @@ Managed by FALL 2024 #TeamContent:
 * Leads: Edwin Vargas Navarro 
 * Members: Bing Concepcion, Colin Olairez, Marissa Lumpkin, Mia Yen
 
-
-
-
 [![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml) •
 [![a11y specs](https://github.com/berkeley-eecs/berkeley-class-site/actions/workflows/rspec.yml/badge.svg)](https://github.com/berkeley-eecs/berkeley-class-site/actions/workflows/rspec.yml)
 
