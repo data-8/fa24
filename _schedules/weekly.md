@@ -55,10 +55,6 @@ schedule:
         start: 12:00 PM
         end: 5:00 PM
         location: Warren 101-B
-      - name: Project 3 Party
-        start: 6:00 PM
-        end: 8:00 PM
-        location: Warren 101-B
   - name: Thursday
     events:  
       - name: Office Hours
