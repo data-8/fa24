@@ -42,7 +42,7 @@ sememster: fa24 # set for the current seemester
 # (Future) This will control some footer text, and later custom styling.
 course_department: dsus
 logo: "/data8logo_christmas.png"
-current_week: 15
+current_week: 16
 # This should be the page of all class archives
 # Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
 # If you have no archive page, comment this line out or leave blank.
@@ -284,6 +284,9 @@ links:
       demo38: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa24&urlpath=tree/materials-fa24/lec/lec38/lec38.ipynb&branch=main)"
       demo39: ""
       demo40: ""
+      demo41: ""
+      demo42: ""
+      demo43: ""
     slides:
       slide01: "[Slides](https://docs.google.com/presentation/d/1Rg3tyM3b68n8Ko5OzsnnvXSbeP-HARD5WlLKUfXXCFk/edit?usp=sharing)"
       slide02: "[Slides](https://docs.google.com/presentation/d/1mpRbyc3oeT1vUFUs3zMztGVAjAGC7Gv9nweH3n8Zkz0/edit?usp=sharing)"
@@ -325,3 +328,6 @@ links:
       slide38: "[Slides](https://docs.google.com/presentation/d/1YiZtvm4P7bI4RbXiNPGM8kKpYDIQ850FYb6gU9ul_v4/edit?usp=sharing)"
       slide39: "[Slides](https://docs.google.com/presentation/d/1iqMVBKnVoUNkXl3SXTHaxALyXwNCH_kq2fBTMK2BskE/edit?usp=sharing)"
       slide40: "[Slides](https://docs.google.com/presentation/d/16GK3yypBeYBXfEMCn3hiifmWXY8OaqkSb01S9hhTyfA/edit?usp=sharing)"
+      slide41: "[Slides](https://docs.google.com/presentation/d/1qWIOiZ4J1yvnismu2sL0_Ez1Gy2rkwa-WNFrRKLqepU/edit?usp=sharing)"
+      slide42: ""
+      slide43: ""
