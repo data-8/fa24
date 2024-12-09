@@ -23,10 +23,6 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Instructor Office Hours
-        start: 9:00 AM
-        end: 9:50 AM
-        location: Evans 323
       - name: Lecture
         start: 10:00 AM
         end: 11:00 AM
@@ -50,10 +46,6 @@ schedule:
         location: Warren 101-B & Online
   - name: Friday
     events:
-      - name: Instructor Office Hours
-        start: 9:00 AM
-        end: 9:50 AM
-        location: Evans 323
       - name: Lecture
         start: 10:00 AM
         end: 11:00 AM
