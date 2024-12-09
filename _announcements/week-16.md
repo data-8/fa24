@@ -5,7 +5,7 @@ date: 2024-12-08
 ---
 
 1. RRR Week OH (Online + IRL @Warren 101B)
-    * Wednesday 12-5 PM 
+    * Wednesday 12-5 PM
     * Thursday 10-2 PM
 2. TA-led review sessions @VLSB 2050
     * Monday (12/9) from 3-5 PM focusing on pre-midterm content
