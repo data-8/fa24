@@ -13,5 +13,5 @@ Dec 11
     : {{site.links.lec.slides.slide42}} {{site.links.lec.demo.demo42}}
 
 Dec 13
-: **43**{: .label} Final Review Part II: Expoloration
+: **43**{: .label} Final Review Part III: Expoloration
   : {{site.links.lec.slides.slide44}} {{site.links.lec.demo.demo43}}
