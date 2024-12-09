@@ -26,7 +26,7 @@ description: >-
 </details>
 
 <details>
-  <summary><strong>Q: I have a 0 on Gradescope for a lab that I attended and got checked off. Why is this?</strong></summary>
+  <summary><strong>Q: I have a 80/100 on my grade report for a lab that I attended and got checked off. Why is this?</strong></summary>
   <p>A: Your attendance may have been marked incorrectly. Please contact your lab TA.</p>
 </details>
 
