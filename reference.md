@@ -25,6 +25,7 @@ Contributions by Jonathan Ferrari, Updated and Maintained by Edwin Vargas and Bi
 For Fall 2024, students will receive an abbreviated reference sheet for exams. 
 
 * [Midterm reference sheet](https://drive.google.com/file/d/14HQCCoBzi5z_ocUtjsvC4hIZzwFR93sT/view?usp=sharing)
+* [Final reference sheet](https://drive.google.com/file/d/1ZPA7ekzExxiCK6fvkDwMfxdqjaXA5y93/view?usp=sharing)
 
 --- 
 
