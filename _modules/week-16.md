@@ -14,4 +14,4 @@ Dec 11
 
 Dec 13
 : **43**{: .label} Final Review Part III: Exploration
-  : {{site.links.lec.slides.slide44}} {{site.links.lec.demo.demo43}}
+  : {{site.links.lec.slides.slide43}} {{site.links.lec.demo.demo43}}
