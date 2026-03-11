@@ -6,6 +6,9 @@ nav_order: 1
 permalink: /
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data8.org/)
+
 # **Data 8: Foundations of Data Science**
 
 {: .mb-2 }

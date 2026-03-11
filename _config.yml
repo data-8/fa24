@@ -331,3 +331,10 @@ links:
       slide41: "[Slides](https://docs.google.com/presentation/d/1qWIOiZ4J1yvnismu2sL0_Ez1Gy2rkwa-WNFrRKLqepU/edit?usp=sharing)"
       slide42: "[Slides](https://docs.google.com/presentation/d/12cKUdw0ngA4usOLkI4LOOcsAiP88D-Vj0l2QIdetZG0/edit?usp=sharing)"
       slide43: "[Slides](https://docs.google.com/presentation/d/1LyKTgI2bAoj0JKp0uyFWkdB5DXf70o9sOkC_SxiSw5w/edit?usp=sharing)"
+
+
+callouts_level: quiet # or loud
+callouts:
+  warning:
+    title: Warning
+    color: red
